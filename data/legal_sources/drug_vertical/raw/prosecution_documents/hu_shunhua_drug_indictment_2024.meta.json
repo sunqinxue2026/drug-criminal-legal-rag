@@ -1,0 +1,18 @@
+{
+  "id": "hu_shunhua_drug_indictment_2024",
+  "url": "https://www.12309.gov.cn/12309/gj/cq/cqsycq/zjxflws/202503/t20250320_12193350.shtml",
+  "documentName": "起诉书（胡顺华贩卖毒品案）",
+  "knowledgeType": "检察文书",
+  "knowledgeSubtype": "起诉书",
+  "documentLevel": "法律文书",
+  "issuer": "重庆市永川区人民检察院",
+  "sourceName": "12309中国检察网",
+  "businessDomain": "涉毒刑事",
+  "topic": "贩卖毒品审查起诉",
+  "effectiveDate": "2024-10-31",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "prosecution_documents",
+  "processedGroup": "prosecution_documents",
+  "parser": "official_indictment_snapshot"
+}

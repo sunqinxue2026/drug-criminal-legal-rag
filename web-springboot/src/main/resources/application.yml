@@ -1,0 +1,63 @@
+﻿server:
+  port: 8080
+  servlet:
+    context-path: /api
+
+spring:
+  application:
+    name: legal-rag-backend
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: ${SPRING_DATASOURCE_URL:jdbc:mysql://localhost:3306/legal_rag?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true}
+    username: ${SPRING_DATASOURCE_USERNAME:root}
+    password: ${SPRING_DATASOURCE_PASSWORD:}
+
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+  global-config:
+    db-config:
+      id-type: auto
+      logic-delete-field: deleted
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+  mapper-locations: classpath*:mapper/**/*.xml
+
+jwt:
+  secret: ${JWT_SECRET:change-me-in-production-change-me-in-production}
+  expiration: ${JWT_EXPIRATION:604800000}
+
+external:
+  algorithm-service:
+    base-url: ${ALGORITHM_SERVICE_BASE_URL:http://localhost:5000}
+    connect-timeout-ms: ${ALGORITHM_SERVICE_CONNECT_TIMEOUT_MS:5000}
+    read-timeout-ms: ${ALGORITHM_SERVICE_READ_TIMEOUT_MS:60000}
+  file-service:
+    base-url: ${FILE_SERVICE_BASE_URL:http://localhost:5001}
+    connect-timeout-ms: ${FILE_SERVICE_CONNECT_TIMEOUT_MS:5000}
+    read-timeout-ms: ${FILE_SERVICE_READ_TIMEOUT_MS:60000}
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    tags-sorter: alpha
+    operations-sorter: alpha
+
+app:
+  security:
+    allowed-origins: ${APP_ALLOWED_ORIGINS:http://localhost:3000,http://localhost:5173,http://localhost:5174}
+    internal-service-token: ${INTERNAL_SERVICE_TOKEN:}
+    internal-header-name: ${INTERNAL_SERVICE_HEADER:X-Internal-Service-Token}
+
+logging:
+  level:
+    com.gjq: ${APP_LOG_LEVEL:info}
+    org.springframework: info

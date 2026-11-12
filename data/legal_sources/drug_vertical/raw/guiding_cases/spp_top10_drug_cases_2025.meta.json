@@ -1,0 +1,21 @@
+{
+  "id": "spp_top10_drug_cases_2025",
+  "url": "https://www.spp.gov.cn/xwfbh/dxal/202506/t20250625_699548.shtml",
+  "documentName": "最高检发布10个惩治毒品犯罪典型案例",
+  "knowledgeType": "典型案例",
+  "knowledgeSubtype": "典型案例",
+  "documentLevel": "司法案例",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "涉毒刑事",
+  "topic": "追诉漏罪漏犯、洗钱、麻精药品、引导侦查、综合治理",
+  "effectiveDate": "2025-06-25",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guiding_cases",
+  "processedGroup": "guiding_cases",
+  "parser": "guiding_case_batch",
+  "stopMarkers": [
+    "责任编辑"
+  ]
+}

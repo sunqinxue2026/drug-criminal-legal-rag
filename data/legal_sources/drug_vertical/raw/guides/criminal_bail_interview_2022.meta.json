@@ -1,0 +1,31 @@
+{
+  "id": "criminal_bail_interview_2022",
+  "url": "https://www.spp.gov.cn/spp/xwfbh/wsfbt/202209/t20220921_578242.shtml",
+  "documentName": "“两高两部”联合发布新的取保候审规定",
+  "knowledgeType": "官方解读",
+  "knowledgeSubtype": "程序说明",
+  "documentLevel": "答记者问",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "涉毒程序应对",
+  "topic": "取保候审、会见与程序权利",
+  "effectiveDate": "2022-09-21",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "sectionStartMarker": "问：此次出台《规定》的背景和意义是什么？",
+  "includeIntro": false,
+  "sectionHeadings": [
+    "问：此次出台《规定》的背景和意义是什么？",
+    "问：此次《规定》的主要内容有哪些？",
+    "问：在适用条件上，《规定》有哪些变化和完善？",
+    "问：在被取保候审人义务和办案机关监督管理责任上，《规定》有何要求？",
+    "问：在保障被取保候审人合法权益方面，《规定》有哪些规定？",
+    "问：下一步如何抓好《规定》的贯彻落实？"
+  ],
+  "stopMarkers": [
+    "责任编辑"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "anhui_drug_case_examples_2024",
+  "url": "https://www.ah.jcy.gov.cn/jcyw/202406/t20240625_6529644.shtml",
+  "documentName": "全省检察机关毒品案件办理典型案事例",
+  "knowledgeType": "典型案例",
+  "knowledgeSubtype": "证据审查案事例",
+  "documentLevel": "司法案例",
+  "issuer": "安徽省人民检察院",
+  "sourceName": "安徽省人民检察院",
+  "businessDomain": "涉毒证据规则",
+  "topic": "聊天记录、转账记录、鉴定与称量笔录",
+  "effectiveDate": "2024-06-25",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guiding_cases",
+  "processedGroup": "guiding_cases",
+  "parser": "guiding_case_batch",
+  "stopMarkers": [
+    "安徽各地市检察院门户网站"
+  ]
+}

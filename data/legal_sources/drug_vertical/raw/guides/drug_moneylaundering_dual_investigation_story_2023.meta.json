@@ -1,0 +1,32 @@
+{
+  "id": "drug_moneylaundering_dual_investigation_story_2023",
+  "url": "https://www.spp.gov.cn/spp/zdgz/202306/t20230627_618543.shtml",
+  "documentName": "一案双查 既打击毒品犯罪又追踪毒资流向",
+  "knowledgeType": "官方解读",
+  "knowledgeSubtype": "案例解读",
+  "documentLevel": "专题解读",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "涉毒洗钱与毒资追查",
+  "topic": "一案双查、追踪毒资流向与洗钱线索深挖",
+  "effectiveDate": "2023-06-27",
+  "currentStatus": "公开发布",
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "single_article_slice",
+  "articleNumber": "专题1",
+  "articleTitle": "一案双查 既打击毒品犯罪又追踪毒资流向",
+  "sliceStartMarker": "一案双查 既打击毒品犯罪又追踪毒资流向",
+  "sliceStopMarkers": [
+    "治罪与治理结合 典型事例为强化禁毒综合治理提供指引",
+    "责任编辑：",
+    "Copyrights"
+  ],
+  "extraKeywords": [
+    "毒资流向",
+    "洗钱",
+    "神仙水",
+    "一案双查",
+    "打财断血"
+  ]
+}

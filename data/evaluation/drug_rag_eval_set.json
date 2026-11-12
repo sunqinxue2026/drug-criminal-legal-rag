@@ -1,0 +1,58 @@
+[
+  {
+    "id": "family_detention_notice",
+    "question": "家属收到涉毒案件拘留通知后，现在最应该先做什么？",
+    "expected_keywords": ["家属", "拘留", "律师", "程序"],
+    "required_sections": ["conclusion", "basis", "risk", "advice"],
+    "min_references": 1
+  },
+  {
+    "id": "bail_possibility",
+    "question": "涉毒案件什么情况下可能申请取保候审？",
+    "expected_keywords": ["取保候审", "条件", "强制措施"],
+    "required_sections": ["conclusion", "basis", "risk", "advice"],
+    "min_references": 1
+  },
+  {
+    "id": "meeting_lawyer",
+    "question": "侦查阶段律师会见涉毒案件嫌疑人一般有哪些权利？",
+    "expected_keywords": ["律师", "会见", "侦查阶段"],
+    "required_sections": ["conclusion", "basis", "risk", "advice"],
+    "min_references": 1
+  },
+  {
+    "id": "evidence_chat_transfer",
+    "question": "聊天记录和转账记录在涉毒案件里通常会怎么影响定案？",
+    "expected_keywords": ["聊天记录", "转账记录", "证据"],
+    "required_sections": ["conclusion", "basis", "risk", "advice"],
+    "min_references": 1
+  },
+  {
+    "id": "crime_difference",
+    "question": "非法持有毒品罪和容留他人吸毒罪有什么核心区别？",
+    "expected_keywords": ["非法持有毒品", "容留他人吸毒", "区别"],
+    "required_sections": ["conclusion", "basis", "risk", "advice"],
+    "min_references": 1
+  },
+  {
+    "id": "leniency",
+    "question": "涉毒案件里自首、立功、认罪认罚通常会怎样影响处理结果？",
+    "expected_keywords": ["自首", "立功", "认罪认罚", "量刑"],
+    "required_sections": ["conclusion", "basis", "risk", "advice"],
+    "min_references": 1
+  },
+  {
+    "id": "minor_ethomidate",
+    "question": "未成年人涉及依托咪酯电子烟弹，一般会面临哪些法律风险？",
+    "expected_keywords": ["未成年人", "依托咪酯", "法律风险"],
+    "required_sections": ["conclusion", "basis", "risk", "advice"],
+    "min_references": 1
+  },
+  {
+    "id": "hotline_12309",
+    "question": "家属遇到涉毒案件程序问题时，12309 检察服务热线能提供什么帮助？",
+    "expected_keywords": ["12309", "家属", "程序"],
+    "required_sections": ["conclusion", "basis", "risk", "advice"],
+    "min_references": 1
+  }
+]

@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="renderer" content="webkit|ie-comp|ie-stand" />
+<meta http-equiv="X-UA-Compatible" content="IE=10">
+<title>【典型案例】全省检察机关毒品案件办理典型案事例</title>
+<link rel="stylesheet" type="text/css" href="../../images/style.css" />
+<link rel="stylesheet" type="text/css" href="../../images/pages_2_ah.css" />
+<style>
+<!--
+.wzbt {font-size: 24px;line-height: 130%;font-weight: bold;color: #0066C0;text-decoration: none;}
+-->
+.contentbd{
+	font-size: 16px;
+	line-height: 200%;
+}
+.contentbd img{
+	margin-bottom:4px;
+}
+
+</style>
+</head>
+<body>
+<script defer async type="text/javascript" src="//gov.govwza.cn/dist/aria.js?appid=8f0df313912a61156d5ffe2e0b24f37c" charset="utf-8"></script>
+<script>
+    $(function () {
+        $("#pulldown").panel({ iWheelStep: 32 });
+    });
+</script>
+
+<style>
+    .sousuo_1 {
+        width: 361px;
+        height: 42px;
+        line-height: 42px;
+        background: url(https://www.ah.jcy.gov.cn/images/anhui1.jpg) no-repeat;
+        padding: 0px;
+        margin: 0px;
+        border: 0px;
+    }
+
+    .nav ul li span {
+        position: relative;
+        top: 33px;
+        left: -10px;
+        display: inline-block;
+        margin-left: 18px;
+        width: 12px;
+        height: 9px;
+        background: url(https://www.ah.jcy.gov.cn/images/xiala.png) no-repeat center center;
+    }
+
+    /*图标向上旋转*/
+    .hover-up {
+        transition-duration: .5s;
+        transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+    }
+
+    /*图标向下旋转*/
+    .hover-down {
+        transition-duration: .5s;
+        transform: rotate(0);
+        -webkit-transform: rotate(0)
+    }
+
+    /*隐藏盒子设置*/
+
+    .xiala-box {
+        position: relative;
+
+    }
+
+    div.hidden-box {
+        width: 228px;
+        display: none;
+        position: absolute;
+        top: 48px;
+        left: 912px;
+
+    }
+
+    .hidden-box>ul {
+        list-style-type: none;
+        color: #fff;
+        cursor: pointer;
+        padding-top: 12px;
+        padding-bottom: 15px
+    }
+
+    .hidden-box>ul li {
+        width: 180px;
+        line-height: 30px;
+        height: 50px;
+        font-weight: 500
+    }
+
+    .hidden-box>ul li a {
+        font-size: 16px;
+        background-color: #edf2f4;
+        color: #538899;
+        height: 50px;
+        line-height: 50px;
+        font-weight: normal;
+        padding: 0 20px;
+    }
+
+    .hidden-box li a:hover {
+        background: #538899;
+        color: #fff;
+    }
+
+    /*隐藏盒子位置设置*/
+    .hidden-loc-index {
+        left: 284px
+    }
+
+    .hidden-loc-us {
+        left: 417px
+    }
+
+    .hidden-loc-info {
+        left: 550px
+    }
+
+    .box04 {
+        left: 683px
+    }
+
+    #box-1 {
+        position: absolute;
+        top: -11px;
+        left: 64px;
+    }
+
+    #box-3 {
+        position: absolute;
+        top: -11px;
+        left: 300px;
+    }
+
+    #box-4 {
+        position: absolute;
+        top: -11px;
+        left: 426px;
+    }
+
+    #box-5 {
+        position: absolute;
+        top: -11px;
+        left: 548px;
+    }
+
+    #box-8 {
+        position: absolute;
+        top: -11px;
+        left: 924px;
+    }
+
+
+
+    .wza {
+        width: 370px;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .wza a {
+        font-size: 16px;
+        margin-right: 12px;
+        color: #393939;
+    }
+
+    .wza a:hover {
+        color: #bd000f;
+    }
+
+    .nav {
+        height: 9px;
+    }
+
+    .webpath a {
+        color: #666;
+    }
+
+    .search1 {
+        margin: 0 auto;
+        width: 350px;
+        margin-top: -41px;
+    }
+</style>
+
+
+<script type="text/javascript">
+    window.onload = function () {
+        var ispromptshown = $.cookie('ispromptshown');
+        if (ispromptshown == "false") return;
+
+        var dataUrl = 'searchsuggest?result=false';
+        new TRSWAS.Suggest('textfield', dataUrl,
+            {
+                autoFocus: true,
+                useShim: false,
+                resultFormat: '��?result%条结��?
+            });
+    };
+</script>
+
+<script>
+    $(document).ready(function () {
+        //    nav-li hover e
+        var num;
+        $('.nav-main>li[id]').hover(function () {
+            /*图标向上旋转*/
+            $(this).children().children().removeClass().addClass('hover-up');
+            /*下拉框出现*/
+            var Obj = $(this).attr('id');
+            num = Obj.substring(3, Obj.length);
+            $('#box-' + num).slideDown(300);
+        }, function () {
+            /*图标向下旋转*/
+            $(this).children().children().removeClass().addClass('hover-down');
+            /*下拉框消失*/
+            $('#box-' + num).hide();
+        });
+        //    hidden-box hover e
+        $('.hidden-box').hover(function () {
+            /*保持图标向上*/
+            $('#li-' + num).children().children().removeClass().addClass('hover-up');
+            $(this).show();
+        }, function () {
+            $(this).slideUp(200);
+            $('#li-' + num).children().children().removeClass().addClass('hover-down');
+        });
+    });
+
+</script>
+
+<div class="head">
+    <div class="container">
+        <div class="head-logo">
+            <img src="https://www.ah.jcy.gov.cn/xwzk/images/P020210102514570257693.png" />
+        </div>
+        <div class="search1">
+            <table width="185" border="0" cellpadding="0" cellspacing="0">
+                <form name="searchform" method="get" action="https://jcysearch.jcrb.com/search/search.shtml"
+                    target="_blank" onsubmit="return checkInput();" accept-charset="utf-8">
+                    <tr>
+
+                        <td width="361" height="42" align="left">
+                            <input type="text" value="请输入关键字" name="searchWord" id="textfield" class="sousuo_1" onfocus="this.value=''" onblur="if(this.value==''){this.value='请输入关键字';}" />
+                            <!--INPUT value="" name="searchword" type="hidden"-->
+
+                            <input name="site" value="222" type="hidden" />
+                            <input name="siteName" value="安徽省检察院" type="hidden" />
+                            <input name="code" value="18448bc8b1f" type="hidden" />
+                            <input name="dataTypeId" value="1" type="hidden" />
+                            <input name="channelid" value="272254" type="hidden" />
+                        </td>
+
+                        <td width="45" border="0" cellpadding="0" cellspacing="0">
+                            <input type="image" name="imageField" src="/images/anhui2.jpg" />
+                        </td>
+
+                    </tr>
+                </form>
+            </table>
+        </div>
+
+        <div class="wza">
+            <a href="javascript:void(0)" onclick="aria.start()">网站无障碍</a>
+            <a href="https://www.ah.jcy.gov.cn/xwzk/IPv6/202206/t20220606_3685914.shtml">本站已支持IPv6网络</a>
+        </div>
+
+    </div>
+    <div class="nav-line">
+        <div class="nav">
+
+            
+                <div class=TRS_Editor><nav></nav>
+<ul class="nav-main">
+    <li class="nav-index athere"><a href="http://www.ah.jcy.gov.cn/">首&nbsp;&nbsp;&nbsp;页</a></li>
+    <li id="li-1"><a target="_blank" href="/zjwj/">走进皖检</a></li>
+    <li id="li-2"><a target="_blank" href="/jcyw/">检察要闻</a></li>
+    <li id="li-3"><a target="_blank" href="/jwgk/">检务公开</a></li>
+    <li id="li-4"><a target="_blank" href="/jcyewu/">检察业务</a></li>
+    <li id="li-5"><a target="_blank" href="/dwjs/">队伍建设</a></li>
+    <li id="li-6"><a target="_blank" href="/kjqj/">科技强检</a></li>
+    <li id="li-7"><a target="_blank" href="/jczt/">检察专题</a></li>
+    <li id="li-8"><a target="_blank">网上接待厅</a></li>
+</ul>
+<div class="xiala-box">
+<div class="hidden-box hidden-loc-us" id="box-1">
+<ul>
+    <li><a target="_blank" href="http://www.ah.jcy.gov.cn/zjwj/syjj/201911/t20191126_2729985.shtml">省院简介</a></li>
+    <li><a target="_blank" href="/zjwj/yldjs/">院领导介绍</a></li>
+    <li><a target="_blank" href="/zjwj/jgzn/">机构职能</a></li>
+    <li><a target="_blank" href="http://www.ah.jcy.gov.cn/zjwj/jcgml/201911/t20191113_2722510.shtml">检察官名录</a></li>
+    <li><a target="_blank" href="/zjwj/jczn/">检察指南</a></li>
+</ul>
+</div>
+<div class="hidden-box hidden-loc-us" id="box-3">
+<ul>
+    <li><a target="_blank" href="/jwgk/zdbs/">重大部署</a></li>
+    <li><a target="_blank" href="/jwgk/zxhd/">专项活动</a></li>
+    <li><a target="_blank" href="/jwgk/xwfbh/">新闻发布会</a></li>
+    <li><a target="_blank" href="/jwgk/gzbg/">工作报告</a></li>
+    <li><a target="_blank" href="/jwgk/fgsd/">法规速递</a></li>
+    <li><a target="_blank" href="/jwgk/flwsgk/">法律文书公开</a></li>
+    <li><a target="_blank" href="/jwgk/zdajfb/">重大案件发布</a></li>
+    <li><a target="_blank" href="/jwgk/bmyjs/">部门预决算</a></li>
+    <li><a target="_blank" href="/jwgk/sssc/">申诉审查</a></li>
+</ul>
+</div>
+<div class="hidden-box hidden-loc-us" id="box-4">
+<ul>
+    <li><a target="_blank" href="/jcyewu/xsjc/">刑事检察</a></li>
+    <li><a target="_blank" href="/jcyewu/msxzjc/">民事行政检察</a></li>
+    <li><a target="_blank" href="/jcyewu/gyssjc/">公益诉讼检察</a></li>
+</ul>
+</div>
+<div class="hidden-box hidden-loc-us" id="box-5">
+<ul>
+    <li><a target="_blank" href="/dwjs/dfdt/">地方动态</a></li>
+    <li><a target="_blank" href="/dwjs/jcfc/">检察风采</a></li>
+    <li><a target="_blank" href="/dwjs/jcwh/">检察文化</a></li>
+    <li><a target="_blank" href="/dwjs/jcyjs/">基层院建设</a></li>
+    <li><a target="_blank" href="/dwjs/dflzjs/">党风廉政建设</a></li>
+</ul>
+</div>
+<div class="hidden-box hidden-loc-us" id="box-8">
+<ul>
+    <li><a target="_blank" href="/wsjdt/jbssxz/">举报申诉须知</a></li>
+    <li><a target="_blank" href="https://www.12309.gov.cn">12309中国检察网</a></li>
+    <li><a target="_blank" href="https://wbjcy.jcy.org.cn/tyLeadMailbox/user/index.jsp?cid=7">检察长信箱</a></li>
+    <li><a target="_blank" href="https://www.12309.gov.cn">网上申诉</a></li>
+    <li><a target="_blank" href="http://www.ah.jcy.gov.cn/wsjdt/201911/t20191126_2730035.shtml">在线法律咨询</a></li>
+    <li><a target="_blank" href="https://wbjcy.jcy.org.cn/tyNMGTousu/user/index.jsp?cid=46">违法违纪投诉</a></li>
+    <li><a target="_blank" href="http://www.ah.jcy.gov.cn/wsjdt/llpt/">代表委员联络平台</a></li>
+    <li><a target="_blank" href="https://wbjcy.jcy.org.cn/tyLeadMailboxqs/user/index.jsp?pid=15">服务民营企业邮箱</a></li>
+</ul>
+</div>
+</div></div>
+            
+
+
+
+        </div>
+    </div>
+</div>
+<div class="head-clear"></div>
+<div class="mwrap-mid">
+<div class="container">	 
+<div class="middlewrap-all">
+<div class="middlewrap">
+  <div class="webpath"><img src="../../images/local.png" /> 当前位置：<a href="../../" title="首页" class=b14 class="CurrChnlCls">首页</a>>><a href="../" title="检察要闻" class=b14 class="CurrChnlCls">检察要闻</a>
+  </div>
+  <!-- webpath -->
+  <div class="pagebox">
+    <div class="pagehd"><span>
+      检察要闻
+      </span></div>
+    <div class="pagebd">
+      <div class="contenthd">
+        <div class="artile">
+          【典型案例】全省检察机关毒品案件办理典型案事例
+        </div>
+        <div class="artinf"><span>
+          时间：2024-06-25　　作者：　　新闻来源：
+		  【字号：<A 
+                   href="javascript:fontZoom(22)" class="b12">大</A> | <A 
+                   href="javascript:fontZoom(18)" class="b12">中</A> | <A 
+                   href="javascript:fontZoom(16)" class="b12">小</A>】
+	   	  <SCRIPT type=text/javascript>
+var edition;
+function fontZoom(size)
+{
+document.getElementById('fontzoom').style.fontSize=size+'px';
+}
+</SCRIPT>
+		</span>
+        </div>
+      </div>
+      <div class="contentbd" id="fontzoom">
+        <div class="trs_editor_view TRS_UEDITOR trs_paper_default trs_web"><section><section><p style="text-indent: 2em; text-align: center;"><strong>全省检察机关<span style="text-indent: 0em;">毒品案件办理典型案事例</span></strong></p></section></section><section><section><section><section><section><p style="text-indent: 2em;"><strong>目录</strong></p></section></section></section><section><p style="text-indent: 2em;">1.王某某等76人走私、贩卖毒品、洗钱案</p><p style="text-indent: 2em;">2.检察机关督促保护未成年人用药安全公益诉讼案</p><p style="text-indent: 2em;">3.万某某等人未继续执行剩余强制隔离戒毒期限检察监督案</p><p style="text-indent: 2em;">4.吴某某走私、贩卖毒品案</p><p style="text-indent: 2em;">5.徐某某、杨某某贩卖毒品案</p><p style="text-indent: 2em;">6.运用大数据思维督促整治未成年人药品滥用问题</p></section></section></section><section><section><section><section><section><p style="text-indent: 2em;">案例一</p></section></section></section><section><p style="text-indent: 2em;">【合肥市巢湖市人民检察院】</p><p style="text-indent: 2em;"><strong>王某某等76人走私、贩卖毒品、洗钱案</strong></p></section></section></section><section><p style="text-indent: 2em;">【关键词】</p><p style="text-indent: 2em;">走私、贩卖毒品  自洗钱  “聪明药”  分层处理</p><p style="text-indent: 2em;">【基本案情】</p><p style="text-indent: 2em;">被告人王某某，男，1986年3月17日出生，上海某贸易有限公司员工。</p><p style="text-indent: 2em;">被告人向某某，男，1992年9月19日出生，深圳某装饰有限公司员工。</p><p style="text-indent: 2em;">被告人张某某，男，1984年6月14日出生，上海某文化交流有限公司员工。</p><p style="text-indent: 2em;">2020年3月至2021年7月，王某某、向某某、张某某为牟取不正当利益，在明知“利他林”“阿莫达非尼”等药品系国家管控麻精药品的情况下,从国外购买相关管制药品，并通过“Telegram”“微信”等社交软件，将相关管制药品以“聪明药”名义向潜在购买对象宣传推广。为逃避侦查，3人将管制药品伪装成维生素、类褪黑素等保健药品进行寄递，并通过虚拟货币平台、支付宝口令红包等形式收取毒资，共贩卖给刘某某等73名国内人员。2021年3月至7月，王某某利用其控制的耿某某的虚拟币交易账户，通过OTC交易方式，共计接收价值518907.31元的虚拟币，提取价值333786.9元的虚拟币，卖出价值186661.51元的虚拟币。</p><p style="text-indent: 2em;">【诉讼及履职过程】</p><p style="text-indent: 2em;">2021年12月13日，公安机关以王某某、向某某、张某某等76人涉嫌走私、贩卖毒品罪，向巢湖市人民检察院移送审查起诉。2022年6月9日，巢湖市人民检察院以王某某、向某某、张某某三人构成走私、贩卖毒品罪向巢湖市人民法院提起公诉；同年9月6日，以王某某构成洗钱罪补充起诉。2022年9月30日，经检察听证及检委会讨论决定，巢湖市人民检察院对晏某某等5人作出相对不起诉决定，并监督公安机关对其余68名涉案人员作撤案处理。2023年6月28日，巢湖市人民法院采纳检察机关意见，以王某某犯走私、贩卖毒品罪，洗钱罪等，数罪并罚，决定执行有期徒刑四年十个月，并处罚金五万五千元；向某某犯走私、贩卖毒品罪，判处有期徒刑二年三个月，并处罚金一万五千元；张某某犯走私、贩卖毒品罪，判处有期徒刑二年，并处罚金一万元。王某某提出上诉，2023年9月15日，合肥市中级人民法院裁定驳回上诉，维持原判。</p><p style="text-indent: 2em;">（一）审慎审查，分层办理“聪明药”类毒品案件。检察机关着重对本案罪名定性进行了审查，经省、市两级检察机关精准指导和多次研讨论证，认为根据我国现行毒品管理制度，王某某等3人对于他人购买麻精药品用途不加核实，系对非医疗目的的贩卖持放任态度，应当以贩卖毒品罪追究刑事责任。对仅为寻求刺激而购买、犯罪情节轻微的相关5名涉案人员依法作相对不起诉处理。对为了医疗、考试或为子女提高学习专注力而购买的68名涉案人员，综合考虑其对涉案药品系国家管制的麻精药品主观上不明知、社会危害性以及人民群众的朴素认知，依法监督公安机关撤回案件。</p><p style="text-indent: 2em;">（二）全面梳理，依法追加遗漏犯罪事实及罪名。公安机关以王某某等三人构成贩卖毒品罪移送检察机关审查起诉，检察机关经审查发现王某某存在通过虚拟币交易自洗钱行为。检察机关通过侦查监督与协作配合机制，在批准逮捕后及起诉阶段分别列出继续侦查提纲及提供法庭审判所需证据材料书，引导公安机关进一步补充王某某本人及其控制的他人的虚拟币交易账户明细等相关数据，并对虚拟币交易资金数据进行了司法审计，及时夯实王某某涉嫌洗钱犯罪证据基础。</p><p style="text-indent: 2em;">（三）延伸职能，多措并举开展综合治理。针对办案中部分涉案人员通过网络购买并寄递管制类药品的情况，检察机关联合市场监督管理部门针对相关企业开展预防未成年人滥用药品联合检查，同公安机关、邮政管理等部门建立寄递安全监管协作配合机制，并对辖区内快递公司开展联合检查。针对部分涉案人员存在的为学习、工作用途购买管控麻精药品行为不构成犯罪的错误认识，检察机关拍摄《同心同筑，天下无毒》禁毒宣传片，充分利用两微平台及法治进校园等活动开展禁毒普法宣传，该视频还获合肥市青少年“合青护航 快乐成长”微视频大赛三等奖。</p><p style="text-indent: 2em;">【典型意义】</p><p style="text-indent: 2em;">办理涉及“聪明药”等新型毒品案件，检察机关要严格贯彻宽严相济刑事政策，坚持能动履职，精准定性、分层处理并依法开展追捕追诉。要积极投入禁毒综合治理，加强行刑衔接，联合相关部门深化落实“七号检察建议”，规范寄递行业管理。要充分利用新媒体平台，加大禁毒宣传教育力度，构建防范青少年药物滥用综合治理新格局。</p></section><section><section><section><section><section><p style="text-indent: 2em;">案例二</p></section></section></section><section><p style="text-indent: 2em;">【淮南市潘集区人民检察院】</p><p style="text-indent: 2em;"><strong>督促保护未成年人用药安全公益诉讼案</strong></p></section></section></section><section><p style="text-indent: 2em;">【关键词】</p><p style="text-indent: 2em;">民事公益诉讼  行政公益诉讼  未成年人药物滥用  综合治理</p><p style="text-indent: 2em;">【基本案情】</p><p style="text-indent: 2em;">2023年7月12日晚上8时许，淮南市某药品零售公司在未见处方的情况下，违法向未成年人张某某等人售卖了4盒处方药氢溴酸右美沙芬片（15mg*24粒/盒）（以下简称“右美沙芬”，该药品将于2024年7月1日后被列入第二类精神药品目录）。张某某等人大量服用药物后精神亢奋，于当晚22时许与蔡某某带领的多名未成年人“约架”并发生撕打，撕打过程中张某某使用一把随身携带的弯刀刺向蔡某某腹部和肘部，造成其腹部、肘部受伤。</p><p style="text-indent: 2em;">【调查和督促履职】</p><p style="text-indent: 2em;">2023年8月，淮南市潘集区人民检察院在办理张某某等人聚众斗殴案时，发现涉案人员作案前曾大量服用右美沙芬，遂启动内部一体化办案协作机制，刑事检察部门与公益诉讼检察部门共同开展初步调查，并提前介入引导侦查机关调取、固定相关证据，查清案发当晚淮南市某药品零售公司在未见处方的情况下，违法向未成年人售卖处方药的民事侵权事实及行政机关怠于履职情况。</p><p style="text-indent: 2em;">（一）创新适用赔偿方式，灵活开展民事公益诉讼。2023年8月25日，淮南市潘集区人民检察院对淮南市某药品零售公司违法向未成年人销售处方药民事公益诉讼案立案调查。潘集区人民检察院邀请人大代表、政协委员、人民监督员等，对涉案企业进行听证审查，与会人员一致同意向涉案企业提起民事公益诉讼，要求其承担相应的民事责任。2023年11月22日，潘集区人民检察院向淮南市潘集区人民法院提起民事公益诉讼，请求判令被告淮南市某药品零售公司：停止违法向未成年人销售处方药；消除影响，承担印制1251份安全用药相关宣传资料费用人民币5004元，承担向潘集区手机用户发送未成年人合理用药宣传短信费用人民币16362.22元；就违法销售处方药的行为在淮南日报上向社会公众公开赔礼道歉，并制作道歉视频在其公司微信公众号、潘集区人民检察院公众号上进行播放。2023年12月15日，淮南市潘集区人民法院公开开庭审理此案，当庭宣判支持了检察机关全部诉讼请求，被告表示不上诉，现该案已执行完毕。</p><p style="text-indent: 2em;">（二）贯彻“以我管促都管”理念，针对性开展行政公益诉讼。2023年9月8日，淮南市潘集区人民检察院向相关行政主管部门发出行政公益诉讼诉前检察建议：一是依法落实监督管理职责，就本案所涉药品零售公司违规向未成年人销售处方药的行为进行进一步调查，并依法给予相应行政处罚；二是举一反三，依法就类似问题开展专项整治活动，坚决杜绝药品流通领域损害未成年人身心健康事件的发生；三是加强未成年人保护法治宣传，进一步强化未成年人权益保护意识，对未成年人购买药品加强监管，落实购买药品实名登记制度，切实预防未成年人滥用药品。收到检察建议后，相关行政主管部门及时查处涉案企业违法向未成年人销售处方药的行为，对其处以警告和1000元罚款的行政处罚；开展预防未成年药物滥用专项整治行动，共计检查全市药品零售企业688家次，发现并整改问题81个，有效防止药品流通领域损害未成年人身心健康事件的发生。</p><p style="text-indent: 2em;">（三）加强协作形成保护合力，积极推动综合治理。为深化青少年滥用药物综合治理效果，淮南市潘集区人民检察院鉴于张某某是未成年人、其到案后如实供述、认罪认罚、积极赔偿并取得谅解等因素对张某某作出附条件不起诉决定，后向张某某法定代理人针对性制发《督促监护令》《家庭教育指导令》《家庭教育指导家长责任承诺书》，积极推动未成年人家庭教育问题的解决。同时，聚焦未成年人滥用药物引发刑事案件新态势，举办青年检察官讲堂，进学校、进乡村巡讲，覆盖141个村、社区，受众2000余人次，提升未成年人自律意识和规则意识。</p><p style="text-indent: 2em;">【典型意义】</p><p style="text-indent: 2em;">检察机关在办理涉未成年人刑事案件时，应当细致审查案件，仔细排查检察监督线索，综合运用民事公益诉讼和行政公益诉讼职能，加强两种诉讼类型的衔接和协同，最大限度保护未成年人合法权益。要创新适用赔偿方式，加大侵权人的违法成本，有效发挥民事公益诉讼制裁和预防功能。要积极履行未成年人司法保护职责，找准检察履职服务社会发展大局的切入点，与相关单位加强协作，开展专项整治行动。要积极开展法治宣传教育活动，推动未成年人“一体化防护体系”建设，为未成年人打造一个更加安全的学习成长环境。</p></section><section><section><section><section><section><p style="text-indent: 2em;">案例三</p></section></section></section><section><p style="text-indent: 2em;">【马鞍山某区人民检察院】</p><p style="text-indent: 2em;"><strong>万某某等人未继续执行剩余强制隔离戒毒期限检察监督案</strong></p></section></section></section><section><p style="text-indent: 2em;">【关键词】</p><p style="text-indent: 2em;">强制隔离戒毒监督  剩余强戒期限未继续执行  大数据法律监督  类案监督</p><p style="text-indent: 2em;">【基本案情】</p><p style="text-indent: 2em;">2021年3月19日，万某某因涉嫌贩卖毒品罪被马鞍山某区公安分局刑事拘留，后变更为监视居住。2022年5月18日，某区人民法院以贩卖毒品罪判处万某某有期徒刑7个月，并处罚金人民币1000元。同日，万某某因吸毒被某区公安分局决定强制隔离戒毒二年，期限自2022年6月2日至2024年6月1日，戒毒地点为某市强制隔离戒毒所，但无某市强制隔离戒毒所的接收回执。2022年9月2日，万某某被羁押于某市看守所，同年11月16日被投送省某监狱服刑。2023年4月7日，万某某刑满释放。某区公安局未对万某某采取后续行政监管措施，导致其剩余强制隔离戒毒期限未予执行。</p><p style="text-indent: 2em;">【检察机关履职情况】</p><p style="text-indent: 2em;">2023年5月，某区人民检察院根据安徽省人民检察院、安徽省司法厅联合印发的《关于开展强制隔离戒毒执行活动检察监督工作的意见》，开展行政强制隔离戒毒检察监督专项活动。以涉毒品类犯罪案件为蓝本，利用统一业务应用系统进行梳理，发现万某某存在刑满释放后未依法执行强制隔离戒毒剩余期限问题线索。</p><p style="text-indent: 2em;">（一）积极开展调查核实。某区人民检察院进一步调查了解发现，由于监狱、看守所、强制隔离戒毒所之间信息沟通不畅，可能导致强制隔离戒毒人员刑满释放后未依法执行强制隔离戒毒剩余期限。该部分吸毒人员未经充分隔离戒毒即流向社会，极易重新染上毒瘾，甚至走上以贩养吸的犯罪道路。</p><p style="text-indent: 2em;">（二）运用大数据手段开展检察监督。秉持“办理一案，治理一片”的高质效办案理念，某区人民检察院创建了“公安机关执行强制隔离戒毒行政检察大数据法律监督模型”，通过公安、检察办案系统数据要素碰撞，筛选出全市范围内疑似吸毒人员刑满释放后未依法执行强制隔离戒毒剩余期限76人。某区人民检察院对梳理出的异地人员线索，依法移送属地检察机关进行进一步核查。</p><p style="text-indent: 2em;">（三）精准提出监督意见。某区人民检察院对该区范围内的万某某等8名吸毒人员存在刑满释放后未依法执行强制隔离戒毒剩余期限问题，于2023年7月7日依法向某区公安分局制发类案检察建议1份，建议某区公安分局将需要执行强制隔离戒毒剩余期限的吸毒人员送交执行，并开展强制隔离戒毒决定执行情况专项检查，建立与监狱、看守所、强制隔离戒毒所的执法衔接机制。</p><p style="text-indent: 2em;">2023年7月31日，某区公安分局书面回复采纳检察建议，依法开展专项检查，对需要执行强制隔离戒毒剩余期限的刑满释放人员送交强制隔离戒毒所，并主动加强与监狱、看守所、强制隔离戒毒所的执法衔接，进一步规范强制隔离戒毒执行程序，办案中同步向监狱、看守所送达《强制隔离戒毒决定书》等文书，确保刑罚执行完毕和继续执行强制隔离戒毒的“无缝衔接”。</p><p style="text-indent: 2em;">【典型意义】</p><p style="text-indent: 2em;">禁毒工作不仅仅在于惩治毒品犯罪，“抓末端、治已病”做好吸毒人员的收戒和帮扶工作，对助力社会和谐稳定具有重要意义。开展司法行政强制隔离戒毒检察监督工作，是落实党的十八届四中全会“完善对涉及公民人身、财产权益的行政强制措施实行司法监督制度”要求的重要举措。检察机关针对强制隔离戒毒和刑罚执行信息壁垒、程序衔接不畅，导致涉刑强戒人员“脱漏管”时有发生的问题，坚持依法能动履职，主动适应数字化时代趋势，整合数据资源，创建运用监督模型，提高监督效率。针对强制隔离戒毒执法程序存在的“漏项”，通过类案检察建议助推相关部门完善执法环节“增项”，打破部门信息壁垒，堵塞管理漏洞，实现刑事司法与行政执法无缝对接，维护戒治秩序和执法权威。</p></section><section><section><section><section><section><p style="text-indent: 2em;">案例四</p></section></section></section><section><p style="text-indent: 2em;">【池州市九华山风景区人民检察院】</p><p style="text-indent: 2em;"><strong>吴某某走私、贩卖毒品案</strong></p></section></section></section><section><p style="text-indent: 2em;">【关键词】</p><p style="text-indent: 2em;">走私、贩卖毒品  留学生群体  境外邮寄  教育预防</p><p style="text-indent: 2em;">【基本案情】</p><p style="text-indent: 2em;">被告人吴某某，男，1994年8月出生，2011年赴国外留学，2020年归国工作。</p><p style="text-indent: 2em;">2022年6月，被告人吴某某与其在国外的朋友联络，由对方将大麻油、“摇头丸”等从国外邮寄进入境内，并存放在吴某某住所处用以贩卖。其后，吴某某利用朋友圈以“糖”“叶子”等图标及暗语对外销售。2022年9月，居住九华山风景区的张某某以人民币1400元在吴某某处购得2颗电子烟弹和2粒“摇头丸”，后吴某某被公安机关查获。2022年9月19日，公安机关从吴某某住所内搜查出“烟油”5瓶、烟弹1颗、胶囊91粒。经鉴定及称重，5瓶“烟油”和3颗烟弹均含四氢大麻酚，净重量共计82.1758克；89粒胶囊（鉴定消耗2粒）及售出的2粒摇头丸均含苯丙胺，净重共计40.5227克。</p><p style="text-indent: 2em;">【诉讼及履职过程】</p><p style="text-indent: 2em;">2022年11月21日，公安机关以吴某某涉嫌走私、贩卖毒品罪向九华山风景区人民检察院移送审查起诉。2023年2月15日，九华山风景区人民检察院以吴某某犯走私、贩卖毒品罪向九华山风景区人民法院提起公诉。2023年4月28日，九华山风景区人民法院判决吴某某犯走私、贩卖毒品罪，判处有期徒刑八年，被告人吴某某不服一审判决提出上诉。同年6月30日，经池州市中级人民法院审理后维持原判。</p><p style="text-indent: 2em;">（一）加强诉讼监督，完善以证据为核心的指控体系。审查起诉阶段，承办检察官发现该案在毒品称量过程中，未有被告人及见证人在场，且未制作称量笔录，遂将案件退回公安机关进行补充侦查取证，进一步补强相关证据材料，确保指控事实准确、证据确实充分。同时，承办检察官发现侦查机关提交的证据中存在扣押清单记录不完整、鉴定文书未附鉴定机构、鉴定人的资质证明等办案瑕疵疏漏，及时提醒补强，并向侦查机关制发纠正违法检察建议，要求对类似案件扣押、鉴定环节的程序合法性、对现有侦查流程梳理排查，杜绝出现瑕疵证据材料。侦查机关针对建议内容逐条整改并回复改进情况。</p><p style="text-indent: 2em;">（二）严格审查起诉，准确认定吴某某的贩卖行为。由于被告人吴某某贩卖毒品行为能查清的，仅有1起向张某某贩卖的事实，仅以此证明吴某某具有贩卖的故意，证据较为单薄。为此，承办检察官围绕吴某某在朋友圈中发布的“有‘糖果’和‘油’到货，需要的DD”该则广告，特别是所使用的“糖果”“树叶”图标在特定人群中专门指代“摇头丸”和“大麻烟油”的情况，说明吴某某对所贩卖的毒品受法律禁止应有认知。结合吴某某在拼多多购买空胶囊和针管对毒品进行分装的事实，利用邮寄旧衣服将毒品藏匿衣服口袋内进行贩卖的谋划细节，有效佐证吴某某对该批走私入境的毒品具有拆分贩卖的主观故意，再结合吴某某与国外人员的走私毒品行为，足以认定吴某某构成贩卖毒品罪。</p><p style="text-indent: 2em;">（三）强化诉源治理，加强对寄递行业及特殊群体的教育预防。依托“府检联动”，九华山风景区人民检察院及时将办案中发现的跨境寄递、夹带寄递毒品的问题线索移交邮政管理行政部门，并组织对区内快递门店就收寄验视开展专项巡查，并发出衣物寄递口袋检查的盲点提示。依托设立的乡村检察工作站，邀请相关人员通过“拉家常”“好打听”的方式，向群众宣传普及毒品的知识、寄递毒品的手段方式和举报途径，发挥基层力量参与到邮寄毒品治理当中。针对性开展对归国留学青年的法治教育，联合侨办、公安、基层组织对区内在外留学生家长、归国留学生、境外到访青年等特定群体开展大走访，重点就境内外毒品管制的法律差异和犯罪典型案例，上门开展针对性的普法宣传。</p><p style="text-indent: 2em;">【典型意义】</p><p style="text-indent: 2em;">办理跨境邮寄、贩卖毒品犯罪，检察机关要对案件中的称量笔录、鉴定报告等对案件结论、量刑有重大影响的证据材料的合法性进行严格审查，从源头上杜绝非法证据和瑕疵证据。要准确运用刑事推定，夯实案件基础事实，精准认定行为人贩卖主观故意。要能动履职，主动参与禁毒综合治理工作，推动全社会加强对青少年滥用毒品问题的关注，及时开展针对青少年留学生群体的专项预防。要积极落实“七号检察建议”，将发现的问题线索及时移送相关单位，持续推动加强寄递渠道安全管理。</p></section><section><section><section><section><section><p style="text-indent: 2em;">案例五</p></section></section></section><section><p style="text-indent: 2em;">【黄山市屯溪区人民检察院】</p><p style="text-indent: 2em;"><strong>徐某某、杨某某贩卖毒品案</strong></p></section></section></section><section><p style="text-indent: 2em;">【关键词】</p><p style="text-indent: 2em;">贩卖毒品  电子烟  综合履职  未成年人司法保护</p><p style="text-indent: 2em;">【基本案情】</p><p style="text-indent: 2em;">被不起诉人徐某某，女，2009年2月9日出生，无业。</p><p style="text-indent: 2em;">被不起诉人杨某某，女，2006年12月12日出生，无业。</p><p style="text-indent: 2em;">2023年11月，被不起诉人徐某某、杨某某以牟利为目的，将从他人处购买的两个含有依托咪酯成分的电子烟弹出售给刘某某。11月30日，黄山市屯溪区公安机关将二人抓获，并从其房间内搜查到电子烟弹3个。经鉴定，均检出依托咪酯成分。案件办理过程中，检察机关发现该案存在毒品“上线”相关线索，并涉及未成年人保护问题，遂依法综合履职，开展相关工作。</p><p style="text-indent: 2em;">【诉讼及履职过程】</p><p style="text-indent: 2em;">2024年2月6日，公安机关以杨某某、徐某某涉嫌贩卖毒品罪移送黄山市屯溪区人民检察院审查起诉。因考虑到二人作案时系未成年人，且犯罪情节较轻，具有坦白、认罪认罚等情节，检察机关于2024年3月18日对二人作相对不起诉处理。在办理该案过程中，检察机关发现该案存在毒品“上线”相关线索，遂督促公安机关继续侦查该案毒品“上线”。公安机关将其“上线”周某、全某某抓获归案，并于3月15日、4月25日分别以周某涉嫌贩卖毒品、容留他人吸毒罪；以全某某涉嫌贩卖毒品罪移送审查起诉。2024年4月15日、5月24日，检察机关分别对周某、全某某提起公诉。2024年4月24日，一审法院以被告人周某犯贩卖毒品罪，判处其有期徒刑三年二个月，并处罚金人民币六千元；犯容留他人吸毒罪，判处拘役六个月，并处罚金人民币五千元，数罪并罚，决定执行有期徒刑三年二个月，并处罚金人民币一万一千元。一审判决后，周某未上诉，检察机关未抗诉，判决现已生效。全某某案目前法院正在审理中。</p><p style="text-indent: 2em;">（一）强化案件审查力度，提高案件办理质量。在办理徐某某、杨某某审查逮捕案件过程中，检察官认真审查卷宗材料，结合公安机关提取的电子数据等证据，发现该案可能存在毒品“上线”，遂向公安机关制发《不批准逮捕案件继续侦查取证意见书》，提出继续侦查关联人员的意见。公安机关根据检察机关意见，将“上线”周某、全某某抓获归案，并移送审查起诉。检察官在讯问杨、徐二人时，了解到其从外地来屯溪某KTV从事有偿陪侍工作的情况后，敏锐觉察到背后可能存在其他有组织犯罪行为，于是将相关线索及材料移送侦查机关。侦查机关根据相关线索，对某KTV涉嫌组织未成年人进行违反治安管理活动案立案侦查，于2024年2月21日、5月17日对姚某某等四人报请逮捕，检察机关均作出批准逮捕决定，目前，该案正在进一步办理中。</p><p style="text-indent: 2em;">（二）强化综合履职，全面保护未成年人合法权益。鉴于未成年人徐某某、杨某某作案时系未成年人，此前无违法犯罪前科，此次犯罪情节较轻，具有坦白、认罪认罚等情节。本着“教育为主、惩罚为辅”的原则，检察机关依法对二人作出不批捕、不起诉处理，并在诉讼过程中保障其合法权益。检察机关在办案中发现，杨某某、徐某某平时均不在父母身边，二人父母均对其疏于监管。根据这一情况，检察机关在对徐、杨二人作出不起诉决定的同时，依法向其监护人制发《督促监护令》，督促监护人依法履职。对徐某某案发时为义务教育阶段失学辍学未成年人的情况，根据相关规定，向其所在地检察机关予以通报，并由其转通报给所在地教育行政部门。针对办案中暴露出的青少年识毒防毒能力不强的问题，检察机关协同公安机关打造禁毒教育基地，将禁毒宣传内容纳入检察机关建设的青少年法治教育基地中，借助文字介绍、实物展示、游戏互动的方式开展电子烟毒品等知识宣传，提升青少年识毒防毒能力。</p><p style="text-indent: 2em;">（三）强化综合治理，推动市域社会治理。针对检察履职中发现的少数烟草零售商户向未成年人出售电子烟及香烟的问题，检察机关依法开展调查，对烟草专卖局怠于履行监管职责，损害不特定多数未成年人合法权益的情况予以立案，制发行政公益诉讼诉前检察建议。烟草专卖局对此高度重视，采取强化宣传引导、净化校园周边环境、打击违法行为等举措及时进行整改并回复检察机关。充分发挥“府检联动”机制优势，与烟草专卖局、公安局等单位多次赴城乡接合部、农村、学校周边等场所，向商户宣传禁止向未成年人售卖电子烟的法律规定，赴职业学校、中小学向学生宣传电子烟毒品的危害及毒品犯罪的相关规定。</p><p style="text-indent: 2em;">【典型意义】</p><p style="text-indent: 2em;">办理电子烟等新型毒品案件，检察机关要注重发挥诉讼监督职能，强化证据审查，深挖毒品犯罪案件背后可能存在的其他关联犯罪及关联人员，依法及时移送相关部门或者直接追诉。要对未成年人犯罪案件坚持“教育为主、惩罚为辅”原则，强化综合履职，针对检察办案中发现的社会治理缺位问题，及时通过制发检察建议等方式督促相关职能部门依法履职，推动社会综合治理。</p></section><section><section><section><section><section><p style="text-indent: 2em;">事 例</p></section></section></section><section><p style="text-indent: 2em;">【芜湖市南陵县人民检察院】</p><p style="text-indent: 2em;"><strong>运用大数据思维</strong></p><p style="text-indent: 2em;"><strong>督促整治未成年人药品滥用问题</strong></p></section></section></section><section><p style="text-indent: 2em;">【关键词】</p><p style="text-indent: 2em;">大数据模型  未成年人药品滥用  综合治理</p><p style="text-indent: 2em;">【基本情况】</p><p style="text-indent: 2em;">2023年6月，南陵县人民检察院在办理季某某、黄某某等4人组织未成年人进行违反治安管理活动、强奸案中，发现多名未成年人被诱导滥用右美沙芬片。后检察机关又接获南陵县部分未成年人滥用右美沙芬相关情况反映。鉴于当地未成年人滥用右美沙芬问题可能较为严重，南陵县人民检察院决定联合相关部门，依法开展未成年人滥用药品综合治理。</p><p style="text-indent: 2em;">（一）加强组织领导，分类分步骤有序推进。南陵县人民检察院成立工作专班，由检察长担任组长，并获得芜湖市院和当地党委政法委大力支持，牵头协调推进该县未成年人滥用药品综合治理工作。经进一步调查，工作专班了解到当地未成年人购买右美沙芬渠道主要为药店和诊所，遂决定对药店和诊所分类开展工作。针对购销等数据基础相对较好的药店，以构建大数据法律监督模型进行监督；对数据相对不完善的诊所，基于查清的事实，依法向南陵县卫健委制发检察建议，推动南陵县卫健委及时开展调查，对违法售药的3家诊所进行处罚。</p><p style="text-indent: 2em;">（二）集聚多方合力，成功构建大数据法律监督模型。为开展大数据建模，获取药品经营企业真实、完整销售数据，南陵县人民检察院联合县公安局、县市监局、县卫健委等部门，与相关药品经营企业开展会商，相关药品经营企业以及南陵县市监局根据检察机关需要，提供了包括右美沙芬在内的药品销售记录、消费者信息、处方记录以及行政处罚决定等数据共64万余条。经大数据碰撞比对，发现成年人代买药品、冒充他人身份购药等异常购药线索751条。经进一步分析研判，发现滥用药品人员多集中于16-21周岁，相当部分滥用药品人员过往有吸食毒品或笑气等麻精药品史。办案单位遂建立滥用药品人员信息库和被滥用药品库，目前已入库滥用药品人员34人，其中未成年人16人。由此，督促整治未成年人滥用药品类案监督模型成功创建。</p><p style="text-indent: 2em;">（三）拓展模型适用范围，跨区域堵塞监管漏洞。工作中发现，南陵县部分青少年存在跨区域前往芜湖市其他县市区购买右美沙芬情况，芜湖市人民检察院遂将督促整治未成年人滥用药品类案监督模型推广适用至该市弋江区院、镜湖区院、无为市院。经大数据碰撞比对，新增发现滥用药品未成年人62人，18-22岁滥用药品青年24人。新增发现被滥用毒品替代药品1种（处方药卡马西平片）。针对相关药品经营企业存在不按照诊疗规范售药、未开具处方售药等违法情形，芜湖市弋江区院立案民事公益诉讼及行政公益诉讼各2件，目前磋商结案1件，发出检察建议1份，另2件案件正在办理中；镜湖区院立案1件，拟提起民事公益诉讼。在此基础上，芜湖市人民检察院进一步拓展模型的推广适用，将该模型扩展至该市下辖所有区县院，取得丰硕成果。</p><p style="text-indent: 2em;">（四）建立健全多方协作机制，持续跟进推动综合治理。案件办理过程中，南陵县人民检察院与县公安局建立多个领域工作协同机制，有效提升线索研判和案件办理质效。与县卫健委开展未成年人滥用药品专项治理磋商座谈，推动县卫健委组织对全县乡镇卫生院开展相关知识的培训和学习，并推动开展对当地医疗机构的专项监管“回头看”。推动县市监局加强对药品经营企业的监管，建立相关药品购销登记、报告制度，严格控制特殊药品单笔售药数量。同时，与县公安局、县市监局、县卫健委等职能部门建立联席会议制度，定期进行信息共享、通报，持续更新相关数据，推进相关大数据模型的拓展适用，并组织开展联合检查，不断提升当地禁毒综合治理成效。</p><p style="text-indent: 2em;">【典型意义】</p><p style="text-indent: 2em;">违法售卖右美沙芬等麻精药品，因为销售、购买主体较为分散，涉案金额一般较小，违法行为较为隐蔽，采取常规方法开展监督管理较为困难，检察机关要善于运用大数据思维，依托数据赋能，研究分析相关主体售卖数量、行为和地域等方面异常情况，建立大数据模型，通过对相关药品销售记录、处方记录等数据碰撞比对，摸排案件线索，堵塞监管漏洞。要积极争取上级院和地方党委政府支持，推动检察综合履职，促进各部门齐抓共管、能动履职，分类分层次持续推进麻精药品滥用长效治理。</p></section><p><br/></p></div>
+      </div>
+	  <div style="font-size: 14px;">
+		<script language="javascript">
+		var file_appendix='';
+		var link_appendix='';
+
+		if(file_appendix!=""){
+		document.write("<font color='#CC3300'><b><font color='#000099'>附件：</font></b></font><br>"+file_appendix);
+		}
+		</script>
+	  </div>
+    </div>
+    <!-- pagebd --> 
+  </div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<style>
+  .footer {
+    height: 196px;
+    background-position: center bottom;
+  }
+</style>
+
+<div class="clear"></div>
+
+<div class="footer-container">
+  <div class="footer-icon">
+
+    
+      <a href="http://www.ah.jcy.gov.cn/pcy1/lz/" target=_blank><img src="https://www.ah.jcy.gov.cn/pcy1/201911/W020191126585630654240.jpg" alt="庐州人民检察院" border="0" /></a>
+    
+      <a href="http://www.ah.jcy.gov.cn/pcy1/bh/" target=_blank><img src="https://www.ah.jcy.gov.cn/pcy1/201911/W020191128382263186102.jpg" alt="白湖人民检察院" border="0" /></a>
+    
+      <a href="http://www.ah.jcy.gov.cn/pcy1/jcb/" target=_blank><img src="https://www.ah.jcy.gov.cn/pcy1/201911/W020191126585183892455.jpg" alt="九成坂人民检察院" border="0" /></a>
+    
+      <a href="http://www.ah.jcy.gov.cn/pcy1/hftl/" target=_blank><img src="https://www.ah.jcy.gov.cn/pcy1/201911/W020191126584899277081.jpg" alt="合肥铁路运输检察院" border="0" /></a>
+    
+    
+      <a href="http://www.ah.jcy.gov.cn/wmcj/" target=_blank><img src="https://www.ah.jcy.gov.cn/xwzk/xbgg/201911/W020250424392955623432_ORIGIN.png" alt="文明创建" border="0" /></a>
+    
+      <a href="http://www.ah.jcy.gov.cn/ahwjzx/" target=_blank><img src="https://www.ah.jcy.gov.cn/xwzk/xbgg/202004/W020250424393197974754_ORIGIN.png" alt="安徽未检在线" border="0" /></a>
+    
+      <a href="http://www.ah.jcy.gov.cn/yasf/" target=_blank><img src="https://www.ah.jcy.gov.cn/xwzk/xbgg/202008/W020250424393368578146_ORIGIN.png" alt="普法宣传" border="0" /></a>
+    
+
+
+  </div>
+
+</div>
+
+<div class="clear"></div>
+
+<div class="link">
+  <div class="container">
+
+    <div class="link_left">
+      <div class="lm-title">
+        <div class="lanmu_title"><a>安徽各地市检察院门户网站</a></div>
+      </div>
+      <div class="link_left_inner">
+
+        
+          <div class=TRS_Editor><table width="506">
+<tbody>
+<tr>
+<td><a target="_blank" href="http://www.hefei.jcy.gov.cn">合肥市院</a>　　</td>
+<td><a target="_blank" href="http://www.huaibei.jcy.gov.cn">淮北市院</a></td>
+<td><a target="_blank" href="http://www.bozhou.jcy.gov.cn">亳州市院</a></td>
+<td><a target="_blank" href="http://www.ahsuzhou.jcy.gov.cn">宿州市院</a></td></tr>
+<tr>
+<td><a target="_blank" href="http://www.bengbu.jcy.gov.cn">蚌埠市院</a></td>
+<td><a target="_blank" href="http://www.fuyang.jcy.gov.cn">阜阳市院</a></td>
+<td><a target="_blank" href="http://www.huainan.jcy.gov.cn">淮南市院</a></td>
+<td><a target="_blank" href="http://www.chuzhou.jcy.gov.cn">滁州市院</a></td></tr>
+<tr>
+<td><a target="_blank" href="http://www.luan.jcy.gov.cn">六安市院</a></td>
+<td><a target="_blank" href="http://www.maanshan.jcy.gov.cn">马鞍山市院</a></td>
+<td><a target="_blank" href="http://www.wuhu.jcy.gov.cn">芜湖市院</a></td>
+<td><a target="_blank" href="http://www.xuancheng.jcy.gov.cn">宣城市院</a></td></tr>
+<tr>
+<td><a target="_blank" href="http://www.tongling.jcy.gov.cn">铜陵市院</a></td>
+<td><a target="_blank" href="http://www.chizhou.jcy.gov.cn">池州市院</a></td>
+<td><a target="_blank" href="http://www.anqing.jcy.gov.cn">安庆市院</a></td>
+<td><a target="_blank" href="http://www.huangshan.jcy.gov.cn">黄山市院</a></td></tr></tbody></table></div>
+        
+
+
+      </div>
+    </div>
+    <div class="link_right">
+      <div class="lm-title">
+        <div class="lanmu_title"><a>友情链接</a></div>
+      </div>
+      <div class="link_left_inner">
+
+        
+          <div class="view TRS_UEDITOR trs_paper_default trs_external"><div class="TRS_Editor"><table width="420px">
+<tbody>
+<tr class="firstRow">
+<td><a target="_blank" href="http://www.spp.gov.cn">最高人民检察院</a>　　</td>
+<td><a target="_blank" href="http://sft.ah.gov.cn">安徽省司法厅</a></td>
+<td><a target="_blank" href="http://www.legaldaily.com.cn">法治网</a></td></tr>
+<tr>
+<td><a target="_blank" href="http://www.ah.gov.cn">安徽省政府网</a>　</td>
+<td><a target="_blank" href="http://newspaper.jcrb.com">检察日报</a></td>
+<td><a target="_blank" href="http://www.people.com.cn">人民网</a></td></tr>
+<tr>
+<td><a target="_blank" href="http://ahfy.chinacourt.gov.cn/index.shtml">安徽法院网</a>　</td>
+<td><a target="_blank" href="http://www.jcrb.com">正义网</a></td>
+<td><a target="_blank" href="http://www.xinhuanet.com">新华网</a></td></tr>
+<tr>
+<td><a target="_blank" href="http://gat.ah.gov.cn">安徽公安网</a></td>
+<td><a target="_blank" href="http://www.ahcaw.com">安徽长安网</a></td>
+<td><a target="_blank" href="http://www.anhuinews.com">中安在线</a></td></tr></tbody></table></div></div>
+        
+
+
+      </div>
+    </div>
+  </div>
+</div> <!--  link 结束 -->
+
+<div class="clear"></div>
+<div class="footer">
+  <div class="container">
+    <div class="copyright">
+
+      
+        <div class=TRS_Editor><p>本网网页设计、图标、内容未经协议授权禁止转载、摘编或建立镜像，禁止作为任何商业用途的使用。<br />
+版权所有：安徽省人民检察院<br />
+地址：安徽省合肥市政务文化新区祁门路298号 举报电话：12309<br />
+技术支持：正义网　　　京ICP备10217144号-1<br />
+</p></div>
+      
+
+    </div>
+    <div style="width: 230px; margin: 0 auto;">
+      <span style="float: left;">
+        <script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='https://dcs.conac.cn/js/13/000/0000/60589637/CA130000000605896370001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+      </span>
+      <span style="float: right; margin-top: 10px;">
+        <img src="https://www.ah.jcy.gov.cn/xwzk/wzayd/202201/W020220120379382241164.png" alt="标识" border="0" />
+      </span>
+    </div>
+  </div>
+</div>
+</body>
+<script src="images/jquery.imagesloaded.min.js"></script>
+<script src="images/cbpBGSlideshow.min.js"></script> 
+	<script>
+			$(function() {
+				cbpBGSlideshow.init();
+			});
+	</script>
+</html>

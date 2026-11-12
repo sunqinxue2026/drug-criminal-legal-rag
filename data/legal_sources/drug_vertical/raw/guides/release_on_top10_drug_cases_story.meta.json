@@ -1,0 +1,21 @@
+{
+  "id": "release_on_top10_drug_cases_story",
+  "url": "https://www.spp.gov.cn/spp/zdgz/202306/t20230627_618543.shtml",
+  "documentName": "最高检禁毒十大典型案事例背后的故事",
+  "knowledgeType": "官方解读",
+  "knowledgeSubtype": "案例解读",
+  "documentLevel": "专题解读",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "涉毒案例解读",
+  "topic": "典型案事例发布背景与检察履职重点",
+  "effectiveDate": "2023-06-27",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "stopMarkers": [
+    "责任编辑"
+  ]
+}

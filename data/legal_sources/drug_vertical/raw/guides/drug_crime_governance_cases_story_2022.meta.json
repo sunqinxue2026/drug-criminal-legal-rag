@@ -1,0 +1,28 @@
+{
+  "id": "drug_crime_governance_cases_story_2022",
+  "url": "https://www.spp.gov.cn/zdgz/202207/t20220710_563468.shtml",
+  "documentName": "发挥检察监督职能 惩治预防毒品犯罪",
+  "knowledgeType": "官方解读",
+  "knowledgeSubtype": "案例解读",
+  "documentLevel": "专题解读",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "涉毒案例解读",
+  "topic": "追诉漏罪漏犯、邮寄毒品、主观明知与综合治理",
+  "effectiveDate": "2022-07-10",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "stopMarkers": [
+    "责任编辑"
+  ],
+  "extraKeywords": [
+    "主观明知",
+    "邮寄毒品",
+    "漏罪漏犯",
+    "一案双查",
+    "检察监督"
+  ]
+}

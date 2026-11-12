@@ -1,0 +1,52 @@
+{
+  "id": "electronic_data_rules_hejcy",
+  "url": "https://www.he.jcy.gov.cn/jwgk/jwzn/jwxz/201806/t20180629_2255930.shtml",
+  "documentName": "最高人民法院 最高人民检察院 公安部关于办理刑事案件收集提取和审查判断电子数据若干问题的规定",
+  "knowledgeType": "司法解释",
+  "knowledgeSubtype": "证据规则",
+  "documentLevel": "规范性文件",
+  "issuer": "最高人民法院、最高人民检察院、公安部",
+  "sourceName": "河北省人民检察院",
+  "businessDomain": "涉毒证据规则",
+  "topic": "电子数据审查判断",
+  "effectiveDate": "2016-10-01",
+  "currentStatus": "现行有效",
+  "verifySsl": true,
+  "rawGroup": "judicial_interpretations",
+  "processedGroup": "judicial_interpretations",
+  "articleAliases": {
+    "第一条": [
+      "电子数据范围",
+      "聊天记录算不算证据"
+    ],
+    "第五条": [
+      "电子数据完整性",
+      "校验值"
+    ],
+    "第九条": [
+      "在线提取电子数据",
+      "无法扣押原始介质"
+    ],
+    "第十四条": [
+      "电子数据提取笔录",
+      "电子数据清单"
+    ],
+    "第十七条": [
+      "电子数据鉴定",
+      "鉴定报告"
+    ],
+    "第二十二条": [
+      "电子数据真实性审查"
+    ],
+    "第二十三条": [
+      "电子数据完整性审查"
+    ],
+    "第二十四条": [
+      "电子数据合法性审查"
+    ],
+    "第二十五条": [
+      "网络身份同一性",
+      "账号归属认定"
+    ]
+  }
+}

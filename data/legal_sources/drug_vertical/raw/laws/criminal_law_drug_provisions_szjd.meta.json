@@ -1,0 +1,44 @@
+{
+  "id": "criminal_law_drug_provisions_szjd",
+  "url": "https://ga.sz.gov.cn/SZJDZX/SZZCFG/content/post_1302025.html",
+  "documentName": "中华人民共和国刑法（涉毒条款节录）",
+  "knowledgeType": "法律法规",
+  "documentLevel": "法律",
+  "issuer": "全国人民代表大会常务委员会",
+  "sourceName": "深圳禁毒在线（深圳市政府）",
+  "businessDomain": "涉毒犯罪认定",
+  "topic": "刑法涉毒条款",
+  "currentStatus": "现行有效",
+  "verifySsl": true,
+  "encoding": "utf-8",
+  "fetchMode": "powershell",
+  "rawGroup": "laws",
+  "processedGroup": "laws",
+  "articleAliases": {
+    "第三百四十七条": [
+      "走私贩卖运输制造毒品罪",
+      "毒品犯罪基本罪名"
+    ],
+    "第三百四十八条": [
+      "非法持有毒品罪"
+    ],
+    "第三百五十条": [
+      "制造毒品物品犯罪"
+    ],
+    "第三百五十三条": [
+      "引诱教唆欺骗他人吸毒罪",
+      "强迫他人吸毒罪"
+    ],
+    "第三百五十四条": [
+      "容留他人吸毒罪"
+    ],
+    "第三百五十五条": [
+      "非法提供麻醉药品精神药品罪",
+      "麻精药品犯罪"
+    ],
+    "第三百五十七条": [
+      "毒品定义",
+      "毒品范围"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "spp_top10_drug_cases_2024",
+  "url": "https://www.spp.gov.cn/xwfbh/wsfbh/202406/t20240625_657800.shtml",
+  "documentName": "检察机关“高质效办理毒品犯罪案件 推进毒品问题综合治理”十大典型案事例",
+  "knowledgeType": "典型案例",
+  "knowledgeSubtype": "典型案事例",
+  "documentLevel": "司法案例",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "涉毒刑事",
+  "topic": "追诉漏罪漏犯、洗钱、寄递涉毒、综合治理",
+  "effectiveDate": "2024-06-25",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guiding_cases",
+  "processedGroup": "guiding_cases",
+  "parser": "guiding_case_batch",
+  "stopMarkers": [
+    "责任编辑"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "guiding_cases_batch_37_explainer",
+  "url": "https://www.spp.gov.cn/zdgz/202206/t20220625_560974.shtml",
+  "documentName": "“零容忍”惩治新型毒品犯罪",
+  "knowledgeType": "官方解读",
+  "knowledgeSubtype": "案例解读",
+  "documentLevel": "专题解读",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "涉毒案例解读",
+  "topic": "新型毒品犯罪形势与第三十七批指导性案例解读",
+  "effectiveDate": "2022-06-25",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "ignoreContains": [
+    "【字体："
+  ],
+  "sectionHeadings": [
+    "新型毒品犯罪案件上升，查办难度大",
+    "立足当前形势，聚焦重点难点问题",
+    "增强工作合力，推进综合治理"
+  ],
+  "stopMarkers": [
+    "相关新闻",
+    "责任编辑：",
+    "相关链接："
+  ],
+  "extraKeywords": [
+    "新型毒品",
+    "指导性案例",
+    "检察履职",
+    "电子证据",
+    "寄递渠道",
+    "涉毒洗钱"
+  ]
+}

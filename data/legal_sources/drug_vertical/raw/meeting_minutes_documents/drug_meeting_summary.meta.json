@@ -1,0 +1,18 @@
+{
+  "id": "drug_meeting_summary_document",
+  "url": "https://www.he.jcy.gov.cn/jwgk/jwzn/jwxz/201807/t20180706_2272825.shtml",
+  "documentName": "全国部分法院审理毒品犯罪案件工作座谈会纪要",
+  "knowledgeType": "规范性文件",
+  "knowledgeSubtype": "会议纪要",
+  "documentLevel": "审判会议纪要",
+  "issuer": "最高人民法院",
+  "sourceName": "河北省人民检察院转载",
+  "businessDomain": "涉毒定罪量刑与程序适用",
+  "topic": "毒品犯罪会议纪要",
+  "effectiveDate": "2008-12-01",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "meeting_minutes_documents",
+  "processedGroup": "meeting_minutes_documents",
+  "parser": "sectioned_article"
+}

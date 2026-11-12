@@ -1,0 +1,26 @@
+{
+  "id": "drug_chain_attack",
+  "url": "https://www.hengyangzx.jcy.gov.cn/jcyw/202406/t20240625_6530894.shtml",
+  "documentName": "检察机关全链条打击毒品犯罪！",
+  "knowledgeType": "官方解读",
+  "knowledgeSubtype": "综合治理解读",
+  "documentLevel": "专题综述",
+  "issuer": "最高人民检察院",
+  "sourceName": "衡阳市蒸湘区人民检察院转载检察日报",
+  "businessDomain": "涉毒程序与证据",
+  "topic": "追诉漏罪漏犯、审判监督与一案双查",
+  "effectiveDate": "2024-06-25",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "sectionHeadings": [
+    "加强侦查监督",
+    "强化审判监督",
+    "一案双查"
+  ],
+  "stopMarkers": [
+    "当前位置："
+  ]
+}

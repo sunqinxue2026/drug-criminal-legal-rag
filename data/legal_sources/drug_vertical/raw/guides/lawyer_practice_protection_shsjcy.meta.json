@@ -1,0 +1,48 @@
+{
+  "id": "lawyer_practice_protection_shsjcy",
+  "url": "https://www.sh.jcy.gov.cn/sfjc/jwgk/jwxz/45105.jhtml",
+  "documentName": "人民检察院保障律师在刑事诉讼中依法执业的规定",
+  "knowledgeType": "官方指引",
+  "knowledgeSubtype": "程序说明",
+  "documentLevel": "检务指引",
+  "issuer": "最高人民检察院",
+  "sourceName": "上海市人民检察院第三分院",
+  "businessDomain": "涉毒程序应对",
+  "topic": "律师会见与辩护权保障",
+  "effectiveDate": "2017-11-24",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "extraKeywords": [
+    "律师会见",
+    "辩护权",
+    "取保候审",
+    "阅卷",
+    "调取证据",
+    "投诉"
+  ],
+  "articleAliases": {
+    "（一）": [
+      "律师会见",
+      "会见犯罪嫌疑人"
+    ],
+    "（二）": [
+      "取保候审",
+      "变更强制措施"
+    ],
+    "（三）": [
+      "阅卷权",
+      "查阅案卷"
+    ],
+    "（四）": [
+      "调取证据",
+      "申请收集证据"
+    ],
+    "（五）": [
+      "律师投诉",
+      "会见受阻投诉"
+    ]
+  }
+}

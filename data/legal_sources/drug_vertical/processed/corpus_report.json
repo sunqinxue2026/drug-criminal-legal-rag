@@ -1,0 +1,590 @@
+{
+  "processed_dir": "D:\\CODE\\RAG\\data\\legal_sources\\drug_vertical\\processed",
+  "file_count": 40,
+  "document_count": 40,
+  "record_count": 349,
+  "folder_distribution": [
+    {
+      "name": "guides",
+      "count": 21
+    },
+    {
+      "name": "guiding_cases",
+      "count": 10
+    },
+    {
+      "name": "judicial_interpretations",
+      "count": 5
+    },
+    {
+      "name": "laws",
+      "count": 4
+    }
+  ],
+  "knowledge_type_distribution": [
+    {
+      "name": "法律法规",
+      "count": 121
+    },
+    {
+      "name": "司法解释",
+      "count": 72
+    },
+    {
+      "name": "官方解读",
+      "count": 68
+    },
+    {
+      "name": "典型案例",
+      "count": 55
+    },
+    {
+      "name": "官方指引",
+      "count": 27
+    },
+    {
+      "name": "指导性案例",
+      "count": 5
+    },
+    {
+      "name": "部门规范",
+      "count": 1
+    }
+  ],
+  "document_level_distribution": [
+    {
+      "name": "法律",
+      "count": 121
+    },
+    {
+      "name": "司法案例",
+      "count": 59
+    },
+    {
+      "name": "司法解释",
+      "count": 42
+    },
+    {
+      "name": "规范性文件",
+      "count": 31
+    },
+    {
+      "name": "专题解读",
+      "count": 26
+    },
+    {
+      "name": "司法解释解读",
+      "count": 14
+    },
+    {
+      "name": "审判会议纪要",
+      "count": 14
+    },
+    {
+      "name": "普法解读",
+      "count": 9
+    },
+    {
+      "name": "部门规范性文件",
+      "count": 7
+    },
+    {
+      "name": "答记者问",
+      "count": 6
+    },
+    {
+      "name": "检务指引",
+      "count": 5
+    },
+    {
+      "name": "专题综述",
+      "count": 4
+    },
+    {
+      "name": "普法问答",
+      "count": 4
+    },
+    {
+      "name": "检务服务",
+      "count": 3
+    },
+    {
+      "name": "理论研究",
+      "count": 2
+    },
+    {
+      "name": "新闻发布解读",
+      "count": 1
+    },
+    {
+      "name": "案例解读",
+      "count": 1
+    }
+  ],
+  "issuer_distribution": [
+    {
+      "name": "全国人民代表大会常务委员会",
+      "count": 121
+    },
+    {
+      "name": "最高人民检察院",
+      "count": 85
+    },
+    {
+      "name": "最高人民法院",
+      "count": 74
+    },
+    {
+      "name": "最高人民法院、最高人民检察院、公安部",
+      "count": 30
+    },
+    {
+      "name": "最高人民法院、最高人民检察院",
+      "count": 14
+    },
+    {
+      "name": "最高人民法院、最高人民检察院、公安部、国家安全部、司法部",
+      "count": 7
+    },
+    {
+      "name": "安徽省人民检察院",
+      "count": 6
+    },
+    {
+      "name": "上饶市人民检察院",
+      "count": 4
+    },
+    {
+      "name": "中华人民共和国司法部",
+      "count": 4
+    },
+    {
+      "name": "云南省富民县人民检察院",
+      "count": 3
+    },
+    {
+      "name": "上海市人民检察院",
+      "count": 1
+    }
+  ],
+  "source_name_distribution": [
+    {
+      "name": "中华人民共和国最高人民检察院官网",
+      "count": 84
+    },
+    {
+      "name": "遵义市人民政府网站",
+      "count": 71
+    },
+    {
+      "name": "中华人民共和国最高人民法院官网",
+      "count": 32
+    },
+    {
+      "name": "河北省人民检察院",
+      "count": 30
+    },
+    {
+      "name": "济宁市微山县人民法院",
+      "count": 24
+    },
+    {
+      "name": "山东法院网（威海市环翠区人民法院转载）",
+      "count": 15
+    },
+    {
+      "name": "青铜峡市人民检察院",
+      "count": 15
+    },
+    {
+      "name": "河北省人民检察院转载",
+      "count": 14
+    },
+    {
+      "name": "最高人民法院网",
+      "count": 13
+    },
+    {
+      "name": "最高人民法院新闻局",
+      "count": 13
+    },
+    {
+      "name": "深圳禁毒在线（深圳市政府）",
+      "count": 11
+    },
+    {
+      "name": "安徽省人民检察院",
+      "count": 6
+    },
+    {
+      "name": "上海市人民检察院第三分院",
+      "count": 5
+    },
+    {
+      "name": "衡阳市蒸湘区人民检察院转载检察日报",
+      "count": 4
+    },
+    {
+      "name": "上饶市人民检察院",
+      "count": 4
+    },
+    {
+      "name": "中华人民共和国司法部",
+      "count": 4
+    },
+    {
+      "name": "云南省富民县人民检察院",
+      "count": 3
+    },
+    {
+      "name": "上海市人民检察院",
+      "count": 1
+    }
+  ],
+  "source_domain_distribution": [
+    {
+      "name": "www.spp.gov.cn",
+      "count": 84
+    },
+    {
+      "name": "www.zygov.gov.cn",
+      "count": 71
+    },
+    {
+      "name": "www.court.gov.cn",
+      "count": 58
+    },
+    {
+      "name": "www.he.jcy.gov.cn",
+      "count": 44
+    },
+    {
+      "name": "www.sdcourt.gov.cn",
+      "count": 39
+    },
+    {
+      "name": "nx.jcy.gov.cn",
+      "count": 15
+    },
+    {
+      "name": "ga.sz.gov.cn",
+      "count": 11
+    },
+    {
+      "name": "www.sh.jcy.gov.cn",
+      "count": 6
+    },
+    {
+      "name": "www.ah.jcy.gov.cn",
+      "count": 6
+    },
+    {
+      "name": "www.hengyangzx.jcy.gov.cn",
+      "count": 4
+    },
+    {
+      "name": "www.shangrao.jcy.gov.cn",
+      "count": 4
+    },
+    {
+      "name": "www.moj.gov.cn",
+      "count": 4
+    },
+    {
+      "name": "www.ynfumin.jcy.gov.cn",
+      "count": 3
+    }
+  ],
+  "status_distribution": [
+    {
+      "name": "现行有效",
+      "count": 193
+    },
+    {
+      "name": "公开发布",
+      "count": 156
+    }
+  ],
+  "files": [
+    {
+      "file": "guides/criminal_bail_interview_2022.json",
+      "document_count": 1,
+      "record_count": 6,
+      "folder": "guides",
+      "sample_document": "“两高两部”联合发布新的取保候审规定"
+    },
+    {
+      "file": "guides/cross_border_drug_evidence_review_2025.json",
+      "document_count": 1,
+      "record_count": 1,
+      "folder": "guides",
+      "sample_document": "强化全链条证据审查 精准打击跨境毒品犯罪"
+    },
+    {
+      "file": "guides/defender_choice_reply_explainer_2025.json",
+      "document_count": 1,
+      "record_count": 1,
+      "folder": "guides",
+      "sample_document": "“两高”联合发布依法保障选择辩护人权利有关批复"
+    },
+    {
+      "file": "guides/drug_chain_attack.json",
+      "document_count": 1,
+      "record_count": 4,
+      "folder": "guides",
+      "sample_document": "检察机关全链条打击毒品犯罪！"
+    },
+    {
+      "file": "guides/drug_crime_governance_cases_story_2022.json",
+      "document_count": 1,
+      "record_count": 1,
+      "folder": "guides",
+      "sample_document": "发挥检察监督职能 惩治预防毒品犯罪"
+    },
+    {
+      "file": "guides/drug_judicial_interp_understanding.json",
+      "document_count": 1,
+      "record_count": 14,
+      "folder": "guides",
+      "sample_document": "《最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释》的理解与适用"
+    },
+    {
+      "file": "guides/drug_meeting_summary.json",
+      "document_count": 1,
+      "record_count": 14,
+      "folder": "guides",
+      "sample_document": "全国部分法院审理毒品犯罪案件工作座谈会纪要"
+    },
+    {
+      "file": "guides/drug_moneylaundering_dual_investigation_story_2023.json",
+      "document_count": 1,
+      "record_count": 1,
+      "folder": "guides",
+      "sample_document": "一案双查 既打击毒品犯罪又追踪毒资流向"
+    },
+    {
+      "file": "guides/duty_lawyer_opinion_2017.json",
+      "document_count": 1,
+      "record_count": 7,
+      "folder": "guides",
+      "sample_document": "关于开展法律援助值班律师工作的意见"
+    },
+    {
+      "file": "guides/ethomidate_minor_popular.json",
+      "document_count": 1,
+      "record_count": 4,
+      "folder": "guides",
+      "sample_document": "【“海虹”工作室】“打、治、防”三措并举 亮剑未成年人涉依托咪酯毒品犯罪"
+    },
+    {
+      "file": "guides/guiding_cases_batch_37_explainer.json",
+      "document_count": 1,
+      "record_count": 4,
+      "folder": "guides",
+      "sample_document": "“零容忍”惩治新型毒品犯罪"
+    },
+    {
+      "file": "guides/hotline_12309_common_ynfumin.json",
+      "document_count": 1,
+      "record_count": 3,
+      "folder": "guides",
+      "sample_document": "12309检察服务热线常识"
+    },
+    {
+      "file": "guides/internet_logistics_drug_crime_explainer_2024.json",
+      "document_count": 1,
+      "record_count": 1,
+      "folder": "guides",
+      "sample_document": "精准遏制“互联网+电子支付+物流寄递”型毒品犯罪"
+    },
+    {
+      "file": "guides/lawyer_practice_protection_shsjcy.json",
+      "document_count": 1,
+      "record_count": 5,
+      "folder": "guides",
+      "sample_document": "人民检察院保障律师在刑事诉讼中依法执业的规定"
+    },
+    {
+      "file": "guides/legal_aid_criminal_cases_moj_2023.json",
+      "document_count": 1,
+      "record_count": 4,
+      "folder": "guides",
+      "sample_document": "以案说法——法律援助法解读"
+    },
+    {
+      "file": "guides/medical_addictive_cases_notice_2024.json",
+      "document_count": 1,
+      "record_count": 1,
+      "folder": "guides",
+      "sample_document": "关于印发惩治涉麻精药品等成瘾性物质滥用犯罪典型案例的通知"
+    },
+    {
+      "file": "guides/medical_addictive_cases_qa_2024.json",
+      "document_count": 1,
+      "record_count": 3,
+      "folder": "guides",
+      "sample_document": "严惩滥用麻精药品犯罪 推动更高水平健康中国建设——最高检重大犯罪检察厅负责人就惩治涉麻精药品等成瘾性物质滥用犯罪典型案例答记者问"
+    },
+    {
+      "file": "guides/medical_control_drug_explainer_2023.json",
+      "document_count": 1,
+      "record_count": 16,
+      "folder": "guides",
+      "sample_document": "最高检披露麻醉药品、精神药品失管涉毒问题多发原因"
+    },
+    {
+      "file": "guides/minors_new_drug_popular_2021.json",
+      "document_count": 1,
+      "record_count": 4,
+      "folder": "guides",
+      "sample_document": "斩断新型毒品伸向未成年人的黑手"
+    },
+    {
+      "file": "guides/release_on_top10_drug_cases_story.json",
+      "document_count": 1,
+      "record_count": 1,
+      "folder": "guides",
+      "sample_document": "最高检禁毒十大典型案事例背后的故事"
+    },
+    {
+      "file": "guides/timely_legal_help_explainer_2020.json",
+      "document_count": 1,
+      "record_count": 1,
+      "folder": "guides",
+      "sample_document": "检察机关有义务保障犯罪嫌疑人及时获得法律帮助"
+    },
+    {
+      "file": "guiding_cases/anhui_drug_case_examples_2024.json",
+      "document_count": 1,
+      "record_count": 6,
+      "folder": "guiding_cases",
+      "sample_document": "全省检察机关毒品案件办理典型案事例"
+    },
+    {
+      "file": "guiding_cases/drug_crime_typical_cases_2024.json",
+      "document_count": 1,
+      "record_count": 10,
+      "folder": "guiding_cases",
+      "sample_document": "涉“毒”必严、涉“瘾”必惩、涉“未”必重！最高法发布10件典型案例"
+    },
+    {
+      "file": "guiding_cases/drug_moneylaundering_case.json",
+      "document_count": 1,
+      "record_count": 1,
+      "folder": "guiding_cases",
+      "sample_document": "贩毒后，他竟想这样逃脱法律制裁"
+    },
+    {
+      "file": "guiding_cases/guiding_case_248_illegal_drug_purchase_meritorious_service.json",
+      "document_count": 1,
+      "record_count": 1,
+      "folder": "guiding_cases",
+      "sample_document": "最高人民法院发布第44批指导性案例"
+    },
+    {
+      "file": "guiding_cases/guiding_cases_batch_37.json",
+      "document_count": 1,
+      "record_count": 4,
+      "folder": "guiding_cases",
+      "sample_document": "最高人民检察院发布第三十七批指导性案例"
+    },
+    {
+      "file": "guiding_cases/medical_control_drug_cases_2023.json",
+      "document_count": 1,
+      "record_count": 5,
+      "folder": "guiding_cases",
+      "sample_document": "惩治麻醉药品、精神药品失管涉毒犯罪典型案例"
+    },
+    {
+      "file": "guiding_cases/medical_drug_typical_cases_2025.json",
+      "document_count": 1,
+      "record_count": 7,
+      "folder": "guiding_cases",
+      "sample_document": "涉麻精药品犯罪典型案例"
+    },
+    {
+      "file": "guiding_cases/spp_medical_addictive_cases_2024.json",
+      "document_count": 1,
+      "record_count": 6,
+      "folder": "guiding_cases",
+      "sample_document": "最高检发布惩治涉麻精药品等成瘾性物质滥用犯罪典型案例"
+    },
+    {
+      "file": "guiding_cases/spp_top10_drug_cases_2023.json",
+      "document_count": 1,
+      "record_count": 10,
+      "folder": "guiding_cases",
+      "sample_document": "最高检发布“依法严惩毒品犯罪 强化禁毒综合治理”十大典型案事例"
+    },
+    {
+      "file": "guiding_cases/spp_top10_drug_cases_2024.json",
+      "document_count": 1,
+      "record_count": 10,
+      "folder": "guiding_cases",
+      "sample_document": "检察机关“高质效办理毒品犯罪案件 推进毒品问题综合治理”十大典型案事例"
+    },
+    {
+      "file": "judicial_interpretations/death_review_rights_2019.json",
+      "document_count": 1,
+      "record_count": 13,
+      "folder": "judicial_interpretations",
+      "sample_document": "最高人民法院关于死刑复核及执行程序中保障当事人合法权益的若干规定"
+    },
+    {
+      "file": "judicial_interpretations/defender_choice_reply_judicial_interpretation_2025.json",
+      "document_count": 1,
+      "record_count": 1,
+      "folder": "judicial_interpretations",
+      "sample_document": "关于依法保障在押犯罪嫌疑人、被告人选择辩护人权利有关问题的批复"
+    },
+    {
+      "file": "judicial_interpretations/drug_crime_judicial_interpretation_2016.json",
+      "document_count": 1,
+      "record_count": 15,
+      "folder": "judicial_interpretations",
+      "sample_document": "最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释"
+    },
+    {
+      "file": "judicial_interpretations/electronic_data_rules_hejcy.json",
+      "document_count": 1,
+      "record_count": 30,
+      "folder": "judicial_interpretations",
+      "sample_document": "最高人民法院 最高人民检察院 公安部关于办理刑事案件收集提取和审查判断电子数据若干问题的规定"
+    },
+    {
+      "file": "judicial_interpretations/money_laundering_judicial_interpretation_2024.json",
+      "document_count": 1,
+      "record_count": 13,
+      "folder": "judicial_interpretations",
+      "sample_document": "最高人民法院、最高人民检察院关于办理洗钱刑事案件适用法律若干问题的解释"
+    },
+    {
+      "file": "laws/anti_drug_law_zygov.json",
+      "document_count": 1,
+      "record_count": 71,
+      "folder": "laws",
+      "sample_document": "中华人民共和国禁毒法（全文）"
+    },
+    {
+      "file": "laws/criminal_law_drug_provisions_szjd.json",
+      "document_count": 1,
+      "record_count": 11,
+      "folder": "laws",
+      "sample_document": "中华人民共和国刑法（涉毒条款节录）"
+    },
+    {
+      "file": "laws/criminal_law_general_sentencing_qtxjcy.json",
+      "document_count": 1,
+      "record_count": 15,
+      "folder": "laws",
+      "sample_document": "中华人民共和国刑法（涉毒量刑情节专题节录）"
+    },
+    {
+      "file": "laws/criminal_procedure_law_drug_procedure_sdcourt.json",
+      "document_count": 1,
+      "record_count": 24,
+      "folder": "laws",
+      "sample_document": "中华人民共和国刑事诉讼法（涉毒程序权利专题节录）"
+    }
+  ]
+}

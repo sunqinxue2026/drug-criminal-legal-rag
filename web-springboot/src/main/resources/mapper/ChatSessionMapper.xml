@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.gjq.mapper.ChatSessionMapper">
+
+    <resultMap id="BaseResultMap" type="com.gjq.entity.ChatSession">
+        <id column="id" property="id"/>
+        <result column="user_id" property="userId"/>
+        <result column="title" property="title"/>
+        <result column="last_message" property="lastMessage"/>
+        <result column="create_time" property="createTime"/>
+        <result column="update_time" property="updateTime"/>
+        <result column="deleted" property="deleted"/>
+    </resultMap>
+
+    <select id="countActiveSessions" resultType="long">
+        SELECT COUNT(*)
+        FROM chat_session
+        WHERE deleted = 0
+    </select>
+
+    <select id="countSessionsByDaySince" resultType="com.gjq.dto.ChatDailyCountDTO">
+        SELECT DATE_FORMAT(create_time, '%Y-%m-%d') AS day_key,
+               COUNT(*) AS total
+        FROM chat_session
+        WHERE deleted = 0
+          AND create_time <![CDATA[>=]]> #{start}
+        GROUP BY DATE_FORMAT(create_time, '%Y-%m-%d')
+        ORDER BY day_key ASC
+    </select>
+
+</mapper>

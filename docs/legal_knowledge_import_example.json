@@ -1,0 +1,34 @@
+[
+  {
+    "knowledgeType": "法律法规",
+    "documentName": "中华人民共和国劳动合同法",
+    "issuer": "全国人民代表大会常务委员会",
+    "businessDomain": "劳动",
+    "topic": "劳动合同",
+    "articleNumber": "第十条",
+    "articleTitle": "建立书面劳动合同",
+    "content": "建立劳动关系，应当订立书面劳动合同。已建立劳动关系，未同时订立书面劳动合同的，应当自用工之日起一个月内订立书面劳动合同。",
+    "keywords": ["劳动合同", "书面合同", "建立劳动关系"],
+    "aliases": ["没签劳动合同", "未签书面劳动合同"],
+    "effectiveDate": "2008-01-01",
+    "currentStatus": "现行有效",
+    "sourceName": "全国人大官网",
+    "sourceUrl": "https://www.npc.gov.cn/"
+  },
+  {
+    "knowledgeType": "法律法规",
+    "documentName": "中华人民共和国劳动合同法",
+    "issuer": "全国人民代表大会常务委员会",
+    "businessDomain": "劳动",
+    "topic": "劳动合同",
+    "articleNumber": "第八十二条",
+    "articleTitle": "未订立书面劳动合同的法律后果",
+    "content": "用人单位自用工之日起超过一个月不满一年未与劳动者订立书面劳动合同的，应当向劳动者每月支付二倍的工资。",
+    "keywords": ["双倍工资", "书面劳动合同", "劳动报酬"],
+    "aliases": ["双倍工资", "未签劳动合同赔偿"],
+    "effectiveDate": "2008-01-01",
+    "currentStatus": "现行有效",
+    "sourceName": "全国人大官网",
+    "sourceUrl": "https://www.npc.gov.cn/"
+  }
+]

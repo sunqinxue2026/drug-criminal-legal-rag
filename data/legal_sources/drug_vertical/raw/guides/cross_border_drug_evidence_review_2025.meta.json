@@ -1,0 +1,30 @@
+{
+  "id": "cross_border_drug_evidence_review_2025",
+  "url": "https://www.spp.gov.cn/spp/llyj/202506/t20250603_697203.shtml",
+  "documentName": "强化全链条证据审查 精准打击跨境毒品犯罪",
+  "knowledgeType": "官方解读",
+  "knowledgeSubtype": "证据规则专题",
+  "documentLevel": "理论研究",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "涉毒证据规则",
+  "topic": "跨境毒品犯罪证据审查与资金流向追查",
+  "effectiveDate": "2025-06-03",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "stopMarkers": [
+    "责任编辑"
+  ],
+  "extraKeywords": [
+    "跨境毒品",
+    "证据审查",
+    "资金流向",
+    "毒资",
+    "洗钱",
+    "人货分离",
+    "钱货分离"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "medical_addictive_cases_qa_2024",
+  "url": "https://www.spp.gov.cn/spp/xwfbh/wsfbt/202406/t20240621_657334.shtml",
+  "documentName": "严惩滥用麻精药品犯罪 推动更高水平健康中国建设——最高检重大犯罪检察厅负责人就惩治涉麻精药品等成瘾性物质滥用犯罪典型案例答记者问",
+  "knowledgeType": "官方解读",
+  "knowledgeSubtype": "答记者问",
+  "documentLevel": "专题解读",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "新型毒品与麻精药品",
+  "topic": "麻精药品滥用犯罪的认定难点与治理思路",
+  "effectiveDate": "2024-06-21",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "sectionStartMarker": "问：请问最高检发布这批典型案例，出于什么考虑？",
+  "includeIntro": false,
+  "sectionHeadings": [
+    "问：请问最高检发布这批典型案例，出于什么考虑？",
+    "问：请问这批典型案例集中体现出了哪些特点？",
+    "问：针对涉麻精药品等成瘾性物质滥用犯罪问题，检察机关下一步将如何应对？"
+  ],
+  "stopMarkers": [
+    "责任编辑"
+  ]
+}

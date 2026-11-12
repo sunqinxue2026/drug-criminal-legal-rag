@@ -1,0 +1,27 @@
+{
+  "id": "timely_legal_help_explainer_2020",
+  "url": "https://www.spp.gov.cn/spp/llyj/202002/t20200206_453831.shtml",
+  "documentName": "检察机关有义务保障犯罪嫌疑人及时获得法律帮助",
+  "knowledgeType": "官方解读",
+  "knowledgeSubtype": "程序说明",
+  "documentLevel": "普法解读",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "涉毒程序应对",
+  "topic": "法律帮助、值班律师与程序权利保障",
+  "effectiveDate": "2020-02-06",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "stopMarkers": [
+    "责任编辑"
+  ],
+  "extraKeywords": [
+    "法律帮助",
+    "值班律师",
+    "程序权利",
+    "律师介入"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "drug_crime_judicial_interpretation_2016",
+  "url": "https://www.sdcourt.gov.cn/whhcqfy/754240/754247/1345282/index.html",
+  "documentName": "最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释",
+  "knowledgeType": "司法解释",
+  "knowledgeSubtype": "司法解释",
+  "documentLevel": "司法解释",
+  "issuer": "最高人民法院",
+  "sourceName": "山东法院网（威海市环翠区人民法院转载）",
+  "businessDomain": "毒品犯罪司法解释",
+  "topic": "毒品犯罪司法解释",
+  "effectiveDate": "2016-04-11",
+  "currentStatus": "现行有效",
+  "verifySsl": true,
+  "encoding": "utf-8",
+  "fetchMode": "powershell",
+  "rawGroup": "judicial_interpretations",
+  "processedGroup": "judicial_interpretations",
+  "articleAliases": {
+    "第一条": [
+      "其他毒品数量大"
+    ],
+    "第二条": [
+      "其他毒品数量较大"
+    ],
+    "第四条": [
+      "走私贩卖运输制造毒品情节严重"
+    ],
+    "第十二条": [
+      "容留他人吸毒罪认定"
+    ],
+    "第十三条": [
+      "非法提供麻醉药品精神药品"
+    ],
+    "第十四条": [
+      "信息网络涉毒犯罪"
+    ],
+    "第十五条": [
+      "司法解释施行日期"
+    ]
+  }
+}

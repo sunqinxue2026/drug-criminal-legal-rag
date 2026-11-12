@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="家属应对与普法指引">
+  <rect width="64" height="64" rx="18" fill="#f0fdf4"/>
+  <circle cx="24" cy="24" r="8" fill="#16a34a"/>
+  <circle cx="42" cy="26" r="7" fill="#22c55e"/>
+  <path d="M12 51c2-10 8-15 16-15s14 5 16 15H12Z" fill="#16a34a"/>
+  <path d="M33 51c1.4-7 5.8-11 12-11 5.6 0 10 4.2 11 11H33Z" fill="#22c55e"/>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "id": "medical_control_drug_cases_2023",
+  "url": "https://www.spp.gov.cn/spp/xwfbh/dxal/202306/t20230626_618469.shtml",
+  "documentName": "惩治麻醉药品、精神药品失管涉毒犯罪典型案例",
+  "knowledgeType": "典型案例",
+  "knowledgeSubtype": "典型案例",
+  "documentLevel": "司法案例",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "麻精药品失管涉毒案例",
+  "topic": "麻醉药品、精神药品失管涉毒犯罪典型案例",
+  "effectiveDate": "2023-06-26",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guiding_cases",
+  "processedGroup": "guiding_cases",
+  "parser": "guiding_case_batch"
+}

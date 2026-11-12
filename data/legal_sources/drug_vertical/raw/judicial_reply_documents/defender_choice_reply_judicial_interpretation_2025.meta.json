@@ -1,0 +1,18 @@
+{
+  "id": "defender_choice_reply_judicial_interpretation_2025_document",
+  "url": "https://www.spp.gov.cn/xwfbh/wsfbt/202506/t20250626_699332.shtml",
+  "documentName": "关于依法保障在押犯罪嫌疑人、被告人选择辩护人权利有关问题的批复",
+  "knowledgeType": "司法文件",
+  "knowledgeSubtype": "批复",
+  "documentLevel": "司法解释",
+  "issuer": "最高人民法院、最高人民检察院",
+  "sourceName": "最高人民检察院官网",
+  "businessDomain": "涉毒程序应对",
+  "topic": "家属委托辩护、会见与法律援助衔接",
+  "effectiveDate": "2025-06-27",
+  "currentStatus": "现行有效",
+  "verifySsl": true,
+  "rawGroup": "judicial_reply_documents",
+  "processedGroup": "judicial_reply_documents",
+  "parser": "single_article_slice"
+}

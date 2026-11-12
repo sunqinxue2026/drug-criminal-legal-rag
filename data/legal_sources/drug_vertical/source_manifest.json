@@ -1,0 +1,1387 @@
+[
+  {
+    "id": "anti_drug_law_zygov",
+    "url": "https://www.zygov.gov.cn/zfbm/gaj/zcwj/202008/t20200828_62790836.html",
+    "documentName": "中华人民共和国禁毒法（全文）",
+    "knowledgeType": "法律法规",
+    "documentLevel": "法律",
+    "issuer": "全国人民代表大会常务委员会",
+    "sourceName": "遵义市人民政府网站",
+    "businessDomain": "禁毒",
+    "topic": "禁毒法",
+    "effectiveDate": "2008-06-01",
+    "currentStatus": "现行有效",
+    "verifySsl": true,
+    "rawGroup": "laws",
+    "processedGroup": "laws",
+    "articleAliases": {
+      "第二条": [
+        "毒品范围",
+        "什么属于毒品"
+      ],
+      "第三条": [
+        "禁毒工作方针",
+        "禁毒综合治理"
+      ],
+      "第六十一条": [
+        "强制隔离戒毒",
+        "戒毒措施"
+      ],
+      "第六十二条": [
+        "社区戒毒",
+        "社区康复"
+      ]
+    }
+  },
+  {
+    "id": "criminal_law_drug_provisions_szjd",
+    "url": "https://ga.sz.gov.cn/SZJDZX/SZZCFG/content/post_1302025.html",
+    "documentName": "中华人民共和国刑法（涉毒条款节录）",
+    "knowledgeType": "法律法规",
+    "documentLevel": "法律",
+    "issuer": "全国人民代表大会常务委员会",
+    "sourceName": "深圳禁毒在线（深圳市政府）",
+    "businessDomain": "涉毒犯罪认定",
+    "topic": "刑法涉毒条款",
+    "currentStatus": "现行有效",
+    "verifySsl": true,
+    "encoding": "utf-8",
+    "fetchMode": "powershell",
+    "rawGroup": "laws",
+    "processedGroup": "laws",
+    "articleAliases": {
+      "第三百四十七条": [
+        "走私贩卖运输制造毒品罪",
+        "毒品犯罪基本罪名"
+      ],
+      "第三百四十八条": [
+        "非法持有毒品罪"
+      ],
+      "第三百五十条": [
+        "制造毒品物品犯罪"
+      ],
+      "第三百五十三条": [
+        "引诱教唆欺骗他人吸毒罪",
+        "强迫他人吸毒罪"
+      ],
+      "第三百五十四条": [
+        "容留他人吸毒罪"
+      ],
+      "第三百五十五条": [
+        "非法提供麻醉药品精神药品罪",
+        "麻精药品犯罪"
+      ],
+      "第三百五十七条": [
+        "毒品定义",
+        "毒品范围"
+      ]
+    }
+  },
+  {
+    "id": "criminal_law_general_sentencing_qtxjcy",
+    "url": "https://nx.jcy.gov.cn/xqqy/qwfb/202004/t20200407_626691.html",
+    "documentName": "中华人民共和国刑法（涉毒量刑情节专题节录）",
+    "knowledgeType": "法律法规",
+    "knowledgeSubtype": "专题节录",
+    "documentLevel": "法律",
+    "issuer": "全国人民代表大会常务委员会",
+    "sourceName": "青铜峡市人民检察院",
+    "businessDomain": "涉毒量刑情节",
+    "topic": "刑法总则量刑情节",
+    "currentStatus": "现行有效",
+    "verifySsl": true,
+    "rawGroup": "laws",
+    "processedGroup": "laws",
+    "includeArticleNumbers": [
+      "第二十二条",
+      "第二十三条",
+      "第二十四条",
+      "第二十五条",
+      "第二十六条",
+      "第二十七条",
+      "第二十八条",
+      "第二十九条",
+      "第六十一条",
+      "第六十二条",
+      "第六十三条",
+      "第六十四条",
+      "第六十五条",
+      "第六十七条",
+      "第六十八条"
+    ],
+    "articleAliases": {
+      "第二十二条": [
+        "犯罪预备",
+        "预备犯"
+      ],
+      "第二十三条": [
+        "犯罪未遂",
+        "未遂犯"
+      ],
+      "第二十四条": [
+        "犯罪中止",
+        "中止犯"
+      ],
+      "第二十五条": [
+        "共同犯罪",
+        "共犯"
+      ],
+      "第二十六条": [
+        "主犯"
+      ],
+      "第二十七条": [
+        "从犯"
+      ],
+      "第二十八条": [
+        "胁从犯"
+      ],
+      "第二十九条": [
+        "教唆犯"
+      ],
+      "第六十一条": [
+        "量刑原则",
+        "量刑根据"
+      ],
+      "第六十二条": [
+        "从重处罚",
+        "从轻处罚"
+      ],
+      "第六十三条": [
+        "减轻处罚"
+      ],
+      "第六十四条": [
+        "违法所得追缴",
+        "犯罪物品处理"
+      ],
+      "第六十五条": [
+        "累犯",
+        "一般累犯"
+      ],
+      "第六十七条": [
+        "自首"
+      ],
+      "第六十八条": [
+        "立功"
+      ]
+    }
+  },
+  {
+    "id": "criminal_procedure_law_drug_procedure_sdcourt",
+    "url": "https://www.sdcourt.gov.cn/jningweisfy/385991/385992/8529810/index.html",
+    "documentName": "中华人民共和国刑事诉讼法（涉毒程序权利专题节录）",
+    "knowledgeType": "法律法规",
+    "knowledgeSubtype": "专题节录",
+    "documentLevel": "法律",
+    "issuer": "全国人民代表大会常务委员会",
+    "sourceName": "济宁市微山县人民法院",
+    "businessDomain": "涉毒程序权利",
+    "topic": "刑诉法程序条文",
+    "currentStatus": "现行有效",
+    "verifySsl": true,
+    "encoding": "utf-8",
+    "fetchMode": "powershell",
+    "rawGroup": "laws",
+    "processedGroup": "laws",
+    "includeArticleNumbers": [
+      "第三十三条",
+      "第三十四条",
+      "第三十八条",
+      "第三十九条",
+      "第四十条",
+      "第四十一条",
+      "第六十七条",
+      "第六十八条",
+      "第六十九条",
+      "第七十条",
+      "第七十一条",
+      "第七十二条",
+      "第七十三条",
+      "第七十四条",
+      "第七十五条",
+      "第七十六条",
+      "第七十七条",
+      "第七十八条",
+      "第八十一条",
+      "第八十二条",
+      "第八十五条",
+      "第九十一条",
+      "第九十五条",
+      "第九十七条"
+    ],
+    "articleAliases": {
+      "第三十三条": [
+        "谁可以做辩护人",
+        "辩护方式"
+      ],
+      "第三十四条": [
+        "什么时候请律师",
+        "委托辩护时间"
+      ],
+      "第三十八条": [
+        "侦查阶段律师可以做什么",
+        "侦查期间辩护律师权利"
+      ],
+      "第三十九条": [
+        "律师会见",
+        "会见权"
+      ],
+      "第四十条": [
+        "查阅案卷",
+        "阅卷权"
+      ],
+      "第四十一条": [
+        "申请调取证据",
+        "调查取证权"
+      ],
+      "第六十七条": [
+        "取保候审条件",
+        "能不能取保"
+      ],
+      "第六十八条": [
+        "取保方式",
+        "保证人和保证金"
+      ],
+      "第七十一条": [
+        "取保候审义务",
+        "取保后不能做什么"
+      ],
+      "第七十四条": [
+        "监视居住条件"
+      ],
+      "第七十五条": [
+        "指定居所监视居住",
+        "监视居住通知家属"
+      ],
+      "第八十一条": [
+        "逮捕条件"
+      ],
+      "第八十二条": [
+        "拘留条件"
+      ],
+      "第八十五条": [
+        "拘留程序",
+        "拘留后多久通知家属"
+      ],
+      "第九十一条": [
+        "批捕时限",
+        "拘留后多久报捕"
+      ],
+      "第九十五条": [
+        "羁押必要性审查"
+      ],
+      "第九十七条": [
+        "申请变更强制措施"
+      ]
+    }
+  },
+  {
+    "id": "lawyer_practice_protection_shsjcy",
+    "url": "https://www.sh.jcy.gov.cn/sfjc/jwgk/jwxz/45105.jhtml",
+    "documentName": "人民检察院保障律师在刑事诉讼中依法执业的规定",
+    "knowledgeType": "官方指引",
+    "knowledgeSubtype": "程序说明",
+    "documentLevel": "检务指引",
+    "issuer": "最高人民检察院",
+    "sourceName": "上海市人民检察院第三分院",
+    "businessDomain": "涉毒程序应对",
+    "topic": "律师会见与辩护权保障",
+    "effectiveDate": "2017-11-24",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "extraKeywords": [
+      "律师会见",
+      "辩护权",
+      "取保候审",
+      "阅卷",
+      "调取证据",
+      "投诉"
+    ],
+    "articleAliases": {
+      "（一）": [
+        "律师会见",
+        "会见犯罪嫌疑人"
+      ],
+      "（二）": [
+        "取保候审",
+        "变更强制措施"
+      ],
+      "（三）": [
+        "阅卷权",
+        "查阅案卷"
+      ],
+      "（四）": [
+        "调取证据",
+        "申请收集证据"
+      ],
+      "（五）": [
+        "律师投诉",
+        "会见受阻投诉"
+      ]
+    }
+  },
+  {
+    "id": "hotline_12309_common_ynfumin",
+    "url": "https://www.ynfumin.jcy.gov.cn/fzxc/202501/t20250113_6796198.shtml",
+    "documentName": "12309检察服务热线常识",
+    "knowledgeType": "官方指引",
+    "knowledgeSubtype": "程序说明",
+    "documentLevel": "检务服务",
+    "issuer": "云南省富民县人民检察院",
+    "sourceName": "云南省富民县人民检察院",
+    "businessDomain": "涉毒程序应对",
+    "topic": "12309检察服务与家属咨询",
+    "effectiveDate": "2025-01-13",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "introArticleNumber": "导读",
+    "introArticleTitle": "服务概览",
+    "ignoreExact": [
+      "法治宣传"
+    ],
+    "extraKeywords": [
+      "12309",
+      "检察服务热线",
+      "家属咨询",
+      "律师执业保障",
+      "程序查询"
+    ],
+    "articleAliases": {
+      "导读": [
+        "12309",
+        "检察服务热线"
+      ],
+      "一、": [
+        "服务范围",
+        "案件查询",
+        "律师执业保障"
+      ],
+      "二、": [
+        "拨打方式",
+        "操作指南"
+      ]
+    }
+  },
+  {
+    "id": "electronic_data_rules_hejcy",
+    "url": "https://www.he.jcy.gov.cn/jwgk/jwzn/jwxz/201806/t20180629_2255930.shtml",
+    "documentName": "最高人民法院 最高人民检察院 公安部关于办理刑事案件收集提取和审查判断电子数据若干问题的规定",
+    "knowledgeType": "司法解释",
+    "knowledgeSubtype": "证据规则",
+    "documentLevel": "规范性文件",
+    "issuer": "最高人民法院、最高人民检察院、公安部",
+    "sourceName": "河北省人民检察院",
+    "businessDomain": "涉毒证据规则",
+    "topic": "电子数据审查判断",
+    "effectiveDate": "2016-10-01",
+    "currentStatus": "现行有效",
+    "verifySsl": true,
+    "rawGroup": "judicial_interpretations",
+    "processedGroup": "judicial_interpretations",
+    "articleAliases": {
+      "第一条": [
+        "电子数据范围",
+        "聊天记录算不算证据"
+      ],
+      "第五条": [
+        "电子数据完整性",
+        "校验值"
+      ],
+      "第九条": [
+        "在线提取电子数据",
+        "无法扣押原始介质"
+      ],
+      "第十四条": [
+        "电子数据提取笔录",
+        "电子数据清单"
+      ],
+      "第十七条": [
+        "电子数据鉴定",
+        "鉴定报告"
+      ],
+      "第二十二条": [
+        "电子数据真实性审查"
+      ],
+      "第二十三条": [
+        "电子数据完整性审查"
+      ],
+      "第二十四条": [
+        "电子数据合法性审查"
+      ],
+      "第二十五条": [
+        "网络身份同一性",
+        "账号归属认定"
+      ]
+    }
+  },
+  {
+    "id": "drug_crime_judicial_interpretation_2016",
+    "url": "https://www.sdcourt.gov.cn/whhcqfy/754240/754247/1345282/index.html",
+    "documentName": "最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释",
+    "knowledgeType": "司法解释",
+    "knowledgeSubtype": "司法解释",
+    "documentLevel": "司法解释",
+    "issuer": "最高人民法院",
+    "sourceName": "山东法院网（威海市环翠区人民法院转载）",
+    "businessDomain": "毒品犯罪司法解释",
+    "topic": "毒品犯罪司法解释",
+    "effectiveDate": "2016-04-11",
+    "currentStatus": "现行有效",
+    "verifySsl": true,
+    "encoding": "utf-8",
+    "fetchMode": "powershell",
+    "rawGroup": "judicial_interpretations",
+    "processedGroup": "judicial_interpretations",
+    "articleAliases": {
+      "第一条": [
+        "其他毒品数量大"
+      ],
+      "第二条": [
+        "其他毒品数量较大"
+      ],
+      "第四条": [
+        "走私贩卖运输制造毒品情节严重"
+      ],
+      "第十二条": [
+        "容留他人吸毒罪认定"
+      ],
+      "第十三条": [
+        "非法提供麻醉药品精神药品"
+      ],
+      "第十四条": [
+        "信息网络涉毒犯罪"
+      ],
+      "第十五条": [
+        "司法解释施行日期"
+      ]
+    }
+  },
+  {
+    "id": "medical_drug_typical_cases_2025",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/488081.html",
+    "documentName": "涉麻精药品犯罪典型案例",
+    "knowledgeType": "典型案例",
+    "knowledgeSubtype": "典型案例",
+    "documentLevel": "司法案例",
+    "issuer": "最高人民法院",
+    "sourceName": "中华人民共和国最高人民法院官网",
+    "businessDomain": "刑事",
+    "topic": "涉毒刑事典型案例",
+    "effectiveDate": "2026-02-26",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guiding_cases",
+    "processedGroup": "guiding_cases",
+    "parser": "guiding_case_batch"
+  },
+  {
+    "id": "drug_crime_typical_cases_2024",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/435861.html",
+    "documentName": "涉“毒”必严、涉“瘾”必惩、涉“未”必重！最高法发布10件典型案例",
+    "knowledgeType": "典型案例",
+    "knowledgeSubtype": "典型案例",
+    "documentLevel": "司法案例",
+    "issuer": "最高人民法院",
+    "sourceName": "中华人民共和国最高人民法院官网",
+    "businessDomain": "涉毒刑事",
+    "topic": "涉毒刑事典型案例",
+    "effectiveDate": "2024-06-25",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guiding_cases",
+    "processedGroup": "guiding_cases",
+    "parser": "guiding_case_batch"
+  },
+  {
+    "id": "guiding_case_248_illegal_drug_purchase_meritorious_service",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/459191.html",
+    "documentName": "最高人民法院发布第44批指导性案例",
+    "knowledgeType": "指导性案例",
+    "knowledgeSubtype": "指导性案例",
+    "documentLevel": "司法案例",
+    "issuer": "最高人民法院",
+    "sourceName": "中华人民共和国最高人民法院官网",
+    "businessDomain": "涉毒量刑情节",
+    "topic": "自首立功、非法购毒获取线索、从宽处罚边界",
+    "effectiveDate": "2025-05-28",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guiding_cases",
+    "processedGroup": "guiding_cases",
+    "parser": "guiding_case_single",
+    "fallbackTitle": "金某等组织卖淫案——非法购毒获取立功线索不认定为立功"
+  },
+  {
+    "id": "anhui_drug_case_examples_2024",
+    "url": "https://www.ah.jcy.gov.cn/jcyw/202406/t20240625_6529644.shtml",
+    "documentName": "全省检察机关毒品案件办理典型案事例",
+    "knowledgeType": "典型案例",
+    "knowledgeSubtype": "证据审查案事例",
+    "documentLevel": "司法案例",
+    "issuer": "安徽省人民检察院",
+    "sourceName": "安徽省人民检察院",
+    "businessDomain": "涉毒证据规则",
+    "topic": "聊天记录、转账记录、鉴定与称量笔录",
+    "effectiveDate": "2024-06-25",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guiding_cases",
+    "processedGroup": "guiding_cases",
+    "parser": "guiding_case_batch",
+    "stopMarkers": [
+      "安徽各地市检察院门户网站",
+      "事 例"
+    ]
+  },
+  {
+    "id": "drug_judicial_interp_understanding",
+    "url": "https://www.court.gov.cn/shenpan/xiangqing/81362.html",
+    "documentName": "《最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释》的理解与适用",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "司法解释理解与适用",
+    "documentLevel": "司法解释解读",
+    "issuer": "最高人民法院",
+    "sourceName": "中华人民共和国最高人民法院官网",
+    "businessDomain": "涉毒司法解释适用",
+    "topic": "毒品犯罪司法解释解读",
+    "effectiveDate": "2018-02-12",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "introArticleTitle": "导读"
+  },
+  {
+    "id": "drug_meeting_summary",
+    "url": "https://www.he.jcy.gov.cn/jwgk/jwzn/jwxz/201807/t20180706_2272825.shtml",
+    "documentName": "全国部分法院审理毒品犯罪案件工作座谈会纪要",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "会议纪要",
+    "documentLevel": "审判会议纪要",
+    "issuer": "最高人民法院",
+    "sourceName": "河北省人民检察院转载",
+    "businessDomain": "涉毒定罪量刑与程序适用",
+    "topic": "毒品犯罪会议纪要",
+    "effectiveDate": "2008-12-01",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "stopMarkers": [
+      "其他链接"
+    ]
+  },
+  {
+    "id": "ethomidate_minor_popular",
+    "url": "https://www.shangrao.jcy.gov.cn/wcnrsfbh/202406/t20240628_6535729.shtml",
+    "documentName": "【“海虹”工作室】“打、治、防”三措并举 亮剑未成年人涉依托咪酯毒品犯罪",
+    "knowledgeType": "官方指引",
+    "knowledgeSubtype": "新型毒品普法",
+    "documentLevel": "普法解读",
+    "issuer": "上饶市人民检察院",
+    "sourceName": "上饶市人民检察院",
+    "businessDomain": "新型毒品与未成年人保护",
+    "topic": "依托咪酯、电子烟与未成年人涉毒风险",
+    "effectiveDate": "2024-06-28",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "sectionHeadings": [
+      "坚持从严打击，强化检警协作",
+      "坚持探本溯源，推动高效治理",
+      "坚持预防为先"
+    ],
+    "stopMarkers": [
+      "专题活动",
+      "友情链接"
+    ]
+  },
+  {
+    "id": "drug_chain_attack",
+    "url": "https://www.hengyangzx.jcy.gov.cn/jcyw/202406/t20240625_6530894.shtml",
+    "documentName": "检察机关全链条打击毒品犯罪！",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "综合治理解读",
+    "documentLevel": "专题综述",
+    "issuer": "最高人民检察院",
+    "sourceName": "衡阳市蒸湘区人民检察院转载检察日报",
+    "businessDomain": "涉毒程序与证据",
+    "topic": "追诉漏罪漏犯、审判监督与一案双查",
+    "effectiveDate": "2024-06-25",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "sectionHeadings": [
+      "加强侦查监督",
+      "强化审判监督",
+      "一案双查"
+    ],
+    "stopMarkers": [
+      "当前位置："
+    ]
+  },
+  {
+    "id": "drug_moneylaundering_case",
+    "url": "https://www.sh.jcy.gov.cn/xwdt/yasf/130039.jhtml",
+    "documentName": "贩毒后，他竟想这样逃脱法律制裁",
+    "knowledgeType": "典型案例",
+    "knowledgeSubtype": "以案说法",
+    "documentLevel": "案例解读",
+    "issuer": "上海市人民检察院",
+    "sourceName": "上海市人民检察院",
+    "businessDomain": "涉毒证据规则",
+    "topic": "聊天记录、转账记录与涉毒洗钱认定",
+    "effectiveDate": "2025-11-04",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guiding_cases",
+    "processedGroup": "guiding_cases",
+    "parser": "sectioned_article",
+    "introArticleTitle": "案情与证据说明"
+  },
+  {
+    "id": "spp_top10_drug_cases_2024",
+    "url": "https://www.spp.gov.cn/xwfbh/wsfbh/202406/t20240625_657800.shtml",
+    "documentName": "检察机关“高质效办理毒品犯罪案件 推进毒品问题综合治理”十大典型案事例",
+    "knowledgeType": "典型案例",
+    "knowledgeSubtype": "典型案事例",
+    "documentLevel": "司法案例",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒刑事",
+    "topic": "追诉漏罪漏犯、洗钱、寄递涉毒、综合治理",
+    "effectiveDate": "2024-06-25",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guiding_cases",
+    "processedGroup": "guiding_cases",
+    "parser": "guiding_case_batch",
+    "stopMarkers": [
+      "责任编辑"
+    ]
+  },
+  {
+    "id": "spp_medical_addictive_cases_2024",
+    "url": "https://www.spp.gov.cn/spp/xwfbh/wsfbt/202406/t20240621_657334.shtml",
+    "documentName": "最高检发布惩治涉麻精药品等成瘾性物质滥用犯罪典型案例",
+    "knowledgeType": "典型案例",
+    "knowledgeSubtype": "典型案例",
+    "documentLevel": "司法案例",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "新型毒品与麻精药品",
+    "topic": "麻精药品、依托咪酯、曲马多等成瘾性物质犯罪",
+    "effectiveDate": "2024-06-21",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guiding_cases",
+    "processedGroup": "guiding_cases",
+    "parser": "guiding_case_batch",
+    "stopMarkers": [
+      "严惩滥用麻精药品犯罪"
+    ]
+  },
+  {
+    "id": "medical_addictive_cases_qa_2024",
+    "url": "https://www.spp.gov.cn/spp/xwfbh/wsfbt/202406/t20240621_657334.shtml",
+    "documentName": "严惩滥用麻精药品犯罪 推动更高水平健康中国建设——最高检重大犯罪检察厅负责人就惩治涉麻精药品等成瘾性物质滥用犯罪典型案例答记者问",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "答记者问",
+    "documentLevel": "专题解读",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "新型毒品与麻精药品",
+    "topic": "麻精药品滥用犯罪的认定难点与治理思路",
+    "effectiveDate": "2024-06-21",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "sectionStartMarker": "问：请问最高检发布这批典型案例，出于什么考虑？",
+    "includeIntro": false,
+    "sectionHeadings": [
+      "问：请问最高检发布这批典型案例，出于什么考虑？",
+      "问：请问这批典型案例集中体现出了哪些特点？",
+      "问：针对涉麻精药品等成瘾性物质滥用犯罪问题，检察机关下一步将如何应对？"
+    ],
+    "stopMarkers": [
+      "责任编辑"
+    ]
+  },
+  {
+    "id": "legal_aid_criminal_cases_moj_2023",
+    "url": "https://www.moj.gov.cn/pub/sfbgw/jgsz/jgszzsdw/zsdwflyzzx/flyzzxzcxx/zcxxfyzl/202306/t20230621_481166.html",
+    "documentName": "以案说法——法律援助法解读",
+    "knowledgeType": "官方指引",
+    "knowledgeSubtype": "家属应对问答",
+    "documentLevel": "普法问答",
+    "issuer": "中华人民共和国司法部",
+    "sourceName": "中华人民共和国司法部",
+    "businessDomain": "家属应对与法律援助",
+    "topic": "刑事法律援助、被害人救济、未成年人案件与强制医疗",
+    "effectiveDate": "2023-06-21",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "sectionStartMarker": "（十四）",
+    "includeIntro": false,
+    "includeArticleNumbers": [
+      "（十四）",
+      "（十五）",
+      "（十六）",
+      "（十七）"
+    ],
+    "stopMarkers": [
+      "附件："
+    ]
+  },
+  {
+    "id": "release_on_top10_drug_cases_story",
+    "url": "https://www.spp.gov.cn/spp/zdgz/202306/t20230627_618543.shtml",
+    "documentName": "最高检禁毒十大典型案事例背后的故事",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "案例解读",
+    "documentLevel": "专题解读",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒案例解读",
+    "topic": "典型案事例发布背景与检察履职重点",
+    "effectiveDate": "2023-06-27",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "stopMarkers": [
+      "责任编辑"
+    ]
+  },
+  {
+    "id": "criminal_bail_interview_2022",
+    "url": "https://www.spp.gov.cn/spp/xwfbh/wsfbt/202209/t20220921_578242.shtml",
+    "documentName": "“两高两部”联合发布新的取保候审规定",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "程序说明",
+    "documentLevel": "答记者问",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒程序应对",
+    "topic": "取保候审、会见与程序权利",
+    "effectiveDate": "2022-09-21",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "sectionStartMarker": "问：此次出台《规定》的背景和意义是什么？",
+    "includeIntro": false,
+    "sectionHeadings": [
+      "问：此次出台《规定》的背景和意义是什么？",
+      "问：此次《规定》的主要内容有哪些？",
+      "问：在适用条件上，《规定》有哪些变化和完善？",
+      "问：在被取保候审人义务和办案机关监督管理责任上，《规定》有何要求？",
+      "问：在保障被取保候审人合法权益方面，《规定》有哪些规定？",
+      "问：下一步如何抓好《规定》的贯彻落实？"
+    ],
+    "stopMarkers": [
+      "责任编辑"
+    ]
+  },
+  {
+    "id": "defender_choice_reply_explainer_2025",
+    "url": "https://www.spp.gov.cn/xwfbh/wsfbt/202506/t20250626_699332.shtml",
+    "documentName": "“两高”联合发布依法保障选择辩护人权利有关批复",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "程序说明",
+    "documentLevel": "新闻发布解读",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒程序应对",
+    "topic": "选择辩护人、会见与在押权利保障",
+    "effectiveDate": "2025-06-26",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "stopMarkers": [
+      "责任编辑"
+    ],
+    "extraKeywords": [
+      "选择辩护人",
+      "会见权",
+      "在押犯罪嫌疑人",
+      "辩护人更换"
+    ]
+  },
+  {
+    "id": "duty_lawyer_opinion_2017",
+    "url": "https://www.spp.gov.cn/zdgz/201708/t20170829_199292.shtml",
+    "documentName": "关于开展法律援助值班律师工作的意见",
+    "knowledgeType": "官方指引",
+    "knowledgeSubtype": "程序说明",
+    "documentLevel": "部门规范性文件",
+    "issuer": "最高人民法院、最高人民检察院、公安部、国家安全部、司法部",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒程序应对",
+    "topic": "值班律师、法律帮助与家属程序指引",
+    "effectiveDate": "2017-08-29",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "stopMarkers": [
+      "责任编辑"
+    ],
+    "extraKeywords": [
+      "值班律师",
+      "法律帮助",
+      "认罪认罚",
+      "律师在场",
+      "程序保障"
+    ]
+  },
+  {
+    "id": "cross_border_drug_evidence_review_2025",
+    "url": "https://www.spp.gov.cn/spp/llyj/202506/t20250603_697203.shtml",
+    "documentName": "强化全链条证据审查 精准打击跨境毒品犯罪",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "证据规则专题",
+    "documentLevel": "理论研究",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒证据规则",
+    "topic": "跨境毒品犯罪证据审查与资金流向追查",
+    "effectiveDate": "2025-06-03",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "stopMarkers": [
+      "责任编辑"
+    ],
+    "extraKeywords": [
+      "跨境毒品",
+      "证据审查",
+      "资金流向",
+      "毒资",
+      "洗钱",
+      "人货分离",
+      "钱货分离"
+    ]
+  },
+  {
+    "id": "internet_logistics_drug_crime_explainer_2024",
+    "url": "https://www.spp.gov.cn/llyj/202406/t20240620_657319.shtml",
+    "documentName": "精准遏制“互联网+电子支付+物流寄递”型毒品犯罪",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "证据规则专题",
+    "documentLevel": "理论研究",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒证据规则",
+    "topic": "互联网寄递涉毒证据链与主观明知认定",
+    "effectiveDate": "2024-06-20",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "stopMarkers": [
+      "责任编辑"
+    ],
+    "extraKeywords": [
+      "物流寄递",
+      "电子支付",
+      "虚拟货币",
+      "主观明知",
+      "人货分离",
+      "打财断血"
+    ]
+  },
+  {
+    "id": "minors_new_drug_popular_2021",
+    "url": "https://www.spp.gov.cn/spp/llyj/202110/t20211014_532154.shtml",
+    "documentName": "斩断新型毒品伸向未成年人的黑手",
+    "knowledgeType": "官方指引",
+    "knowledgeSubtype": "新型毒品普法",
+    "documentLevel": "普法解读",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "新型毒品与未成年人保护",
+    "topic": "未成年人、新型毒品与校园娱乐场所风险",
+    "effectiveDate": "2021-10-14",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "stopMarkers": [
+      "责任编辑"
+    ],
+    "extraKeywords": [
+      "未成年人",
+      "新型毒品",
+      "娱乐场所",
+      "笑气",
+      "依托咪酯",
+      "电子烟"
+    ]
+  },
+  {
+    "id": "drug_crime_governance_cases_story_2022",
+    "url": "https://www.spp.gov.cn/zdgz/202207/t20220710_563468.shtml",
+    "documentName": "发挥检察监督职能 惩治预防毒品犯罪",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "案例解读",
+    "documentLevel": "专题解读",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒案例解读",
+    "topic": "追诉漏罪漏犯、邮寄毒品、主观明知与综合治理",
+    "effectiveDate": "2022-07-10",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "stopMarkers": [
+      "责任编辑"
+    ],
+    "extraKeywords": [
+      "主观明知",
+      "邮寄毒品",
+      "漏罪漏犯",
+      "一案双查",
+      "检察监督"
+    ]
+  },
+  {
+    "id": "timely_legal_help_explainer_2020",
+    "url": "https://www.spp.gov.cn/spp/llyj/202002/t20200206_453831.shtml",
+    "documentName": "检察机关有义务保障犯罪嫌疑人及时获得法律帮助",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "程序说明",
+    "documentLevel": "普法解读",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒程序应对",
+    "topic": "法律帮助、值班律师与程序权利保障",
+    "effectiveDate": "2020-02-06",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "stopMarkers": [
+      "责任编辑"
+    ],
+    "extraKeywords": [
+      "法律帮助",
+      "值班律师",
+      "程序权利",
+      "律师介入"
+    ]
+  },
+  {
+    "id": "guiding_cases_batch_37",
+    "url": "https://www.spp.gov.cn/spp/xwfbh/wsfbh/202206/t20220624_560847.shtml",
+    "documentName": "最高人民检察院发布第三十七批指导性案例",
+    "knowledgeType": "指导性案例",
+    "knowledgeSubtype": "指导性案例",
+    "documentLevel": "司法案例",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒刑事案例",
+    "topic": "新型毒品犯罪指导性案例",
+    "effectiveDate": "2022-06-24",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guiding_cases",
+    "processedGroup": "guiding_cases",
+    "parser": "guiding_case_batch"
+  },
+  {
+    "id": "guiding_cases_batch_37_explainer",
+    "url": "https://www.spp.gov.cn/zdgz/202206/t20220625_560974.shtml",
+    "documentName": "“零容忍”惩治新型毒品犯罪",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "案例解读",
+    "documentLevel": "专题解读",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒案例解读",
+    "topic": "新型毒品犯罪形势与第三十七批指导性案例解读",
+    "effectiveDate": "2022-06-25",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "ignoreContains": [
+      "【字体："
+    ],
+    "sectionHeadings": [
+      "新型毒品犯罪案件上升，查办难度大",
+      "立足当前形势，聚焦重点难点问题",
+      "增强工作合力，推进综合治理"
+    ],
+    "stopMarkers": [
+      "相关新闻",
+      "责任编辑：",
+      "相关链接："
+    ],
+    "extraKeywords": [
+      "新型毒品",
+      "指导性案例",
+      "检察履职",
+      "电子证据",
+      "寄递渠道",
+      "涉毒洗钱"
+    ]
+  },
+  {
+    "id": "spp_top10_drug_cases_2023",
+    "url": "https://www.spp.gov.cn/spp/xwfbh/wsfbh/202306/t20230625_618249.shtml",
+    "documentName": "最高检发布“依法严惩毒品犯罪 强化禁毒综合治理”十大典型案事例",
+    "knowledgeType": "典型案例",
+    "knowledgeSubtype": "典型案事例",
+    "documentLevel": "司法案例",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒刑事案例",
+    "topic": "依法严惩毒品犯罪与强化禁毒综合治理案事例",
+    "effectiveDate": "2023-06-25",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guiding_cases",
+    "processedGroup": "guiding_cases",
+    "parser": "guiding_case_batch"
+  },
+  {
+    "id": "medical_control_drug_cases_2023",
+    "url": "https://www.spp.gov.cn/spp/xwfbh/dxal/202306/t20230626_618469.shtml",
+    "documentName": "惩治麻醉药品、精神药品失管涉毒犯罪典型案例",
+    "knowledgeType": "典型案例",
+    "knowledgeSubtype": "典型案例",
+    "documentLevel": "司法案例",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "麻精药品失管涉毒案例",
+    "topic": "麻醉药品、精神药品失管涉毒犯罪典型案例",
+    "effectiveDate": "2023-06-26",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guiding_cases",
+    "processedGroup": "guiding_cases",
+    "parser": "guiding_case_batch"
+  },
+  {
+    "id": "medical_control_drug_explainer_2023",
+    "url": "https://www.spp.gov.cn/spp/zdgz/202306/t20230625_618398.shtml",
+    "documentName": "最高检披露麻醉药品、精神药品失管涉毒问题多发原因",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "发布会解读",
+    "documentLevel": "专题解读",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "麻精药品与涉毒治理",
+    "topic": "毒品犯罪态势、麻精药品失管原因与综合治理",
+    "effectiveDate": "2023-06-25",
+    "currentStatus": "公开发布",
+    "verifySsl": true,
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "sectioned_article",
+    "ignoreContains": [
+      "【字体："
+    ],
+    "sectionHeadings": [
+      "依法“重拳”打击毒品违法犯罪 坚决遏制毒品犯罪高发势头",
+      "2018年1月至2023年5月 检察机关起诉毒品犯罪46.7万人",
+      "新型毒品层出不穷 犯罪呈现年轻化趋势",
+      "2018年1月至2023年5月 检察机关对重大毒品犯罪案件 介入侦查3000余件",
+      "通过检察长列席审判委员会制度 监督办理重大疑难复杂 毒品犯罪案件",
+      "以“数字检察” 推动网络毒品犯罪治理",
+      "全国检察机关2022年 起诉寄递毒品犯罪3000余人",
+      "聚焦新型毒品犯罪疑难问题 发布指导性案例",
+      "多种形式开展禁毒宣教活动 提升检察禁毒的传播力、 引导力和影响力",
+      "强化“打财断血” 深入开展涉毒反洗钱工作",
+      "禁毒工作典型案事例 来源于司法实践",
+      "十大典型案事例有四个突出特点",
+      "最高检披露麻醉药品、精神药品 失管涉毒问题多发原因",
+      "坚持治罪和治理并重 推动麻醉药品、精神药品 失管涉毒问题的综合治理",
+      "从三方面推进 “七号检察建议”落实落细"
+    ],
+    "stopMarkers": [
+      "相关新闻",
+      "责任编辑：",
+      "[责任编辑：",
+      "相关链接："
+    ],
+    "extraKeywords": [
+      "麻醉药品",
+      "精神药品",
+      "新型毒品",
+      "寄递毒品",
+      "数字检察",
+      "涉毒洗钱",
+      "七号检察建议"
+    ]
+  },
+  {
+    "id": "money_laundering_judicial_interpretation_2024",
+    "url": "https://www.court.gov.cn/fabu/xiangqing/440681.html",
+    "documentName": "最高人民法院、最高人民检察院关于办理洗钱刑事案件适用法律若干问题的解释",
+    "knowledgeType": "司法解释",
+    "knowledgeSubtype": "司法解释",
+    "documentLevel": "司法解释",
+    "issuer": "最高人民法院、最高人民检察院",
+    "sourceName": "最高人民法院新闻局",
+    "businessDomain": "涉毒洗钱与毒资追缴",
+    "topic": "洗钱罪与毒资流转认定",
+    "effectiveDate": "2024-08-20",
+    "currentStatus": "现行有效",
+    "rawGroup": "judicial_interpretations",
+    "processedGroup": "judicial_interpretations",
+    "articleAliases": {
+      "第一条": [
+        "本人实施上游犯罪能否构成洗钱",
+        "自洗钱入罪"
+      ],
+      "第二条": [
+        "他洗钱认定",
+        "明知他人上游犯罪所得仍代转资金"
+      ],
+      "第三条": [
+        "如何认定知道或者应当知道",
+        "明知推定"
+      ],
+      "第四条": [
+        "洗钱情节严重标准",
+        "五百万元以上"
+      ],
+      "第五条": [
+        "虚拟资产洗钱",
+        "现金密集场所混同",
+        "赌博洗钱"
+      ],
+      "第六条": [
+        "洗钱与掩饰隐瞒犯罪所得竞合"
+      ],
+      "第七条": [
+        "上游犯罪未裁判能否认定洗钱"
+      ],
+      "第九条": [
+        "洗钱罪罚金标准"
+      ],
+      "第十条": [
+        "认罪悔罪积极追缴从宽"
+      ],
+      "第十二条": [
+        "毒品犯罪属于上游犯罪",
+        "毒资洗钱上游范围"
+      ],
+      "第十三条": [
+        "司法解释施行日期"
+      ]
+    },
+    "extraKeywords": [
+      "毒资",
+      "洗钱",
+      "上游犯罪",
+      "虚拟资产",
+      "资金链"
+    ],
+    "stopMarkers": [
+      "责任编辑：",
+      "友情链接开始",
+      "友情链接结束",
+      "地址 版权开始",
+      "法院相关链接结束",
+      "京公网安备",
+      "京ICP备"
+    ]
+  },
+  {
+    "id": "death_review_rights_2019",
+    "url": "https://www.court.gov.cn/fabu/xiangqing/175632.html",
+    "documentName": "最高人民法院关于死刑复核及执行程序中保障当事人合法权益的若干规定",
+    "knowledgeType": "司法解释",
+    "knowledgeSubtype": "程序权利保障",
+    "documentLevel": "司法解释",
+    "issuer": "最高人民法院",
+    "sourceName": "最高人民法院网",
+    "businessDomain": "涉毒重案程序权利",
+    "topic": "死刑复核、执行会见与辩护保障",
+    "effectiveDate": "2019-09-01",
+    "currentStatus": "现行有效",
+    "rawGroup": "judicial_interpretations",
+    "processedGroup": "judicial_interpretations",
+    "articleAliases": {
+      "第一条": [
+        "死刑复核阶段委托辩护律师",
+        "近亲属代为委托辩护"
+      ],
+      "第二条": [
+        "死刑复核辩护意见提交期限"
+      ],
+      "第四条": [
+        "复核裁定后提交新证据怎么办",
+        "暂停执行"
+      ],
+      "第五条": [
+        "死刑复核裁判文书送达律师"
+      ],
+      "第六条": [
+        "执行死刑前申请会见近亲属",
+        "留下遗言"
+      ],
+      "第七条": [
+        "近亲属申请会见",
+        "拒绝会见的处理"
+      ],
+      "第八条": [
+        "会见亲友"
+      ],
+      "第九条": [
+        "会见未成年子女",
+        "视频通话"
+      ],
+      "第十一条": [
+        "违反会见规定的处理"
+      ],
+      "第十三条": [
+        "规定施行日期"
+      ]
+    },
+    "extraKeywords": [
+      "死刑复核",
+      "会见",
+      "辩护律师",
+      "近亲属",
+      "执行程序"
+    ],
+    "stopMarkers": [
+      "责任编辑：",
+      "友情链接开始",
+      "友情链接结束",
+      "地址 版权开始",
+      "法院相关链接结束",
+      "京公网安备",
+      "京ICP备"
+    ]
+  },
+  {
+    "id": "defender_choice_reply_judicial_interpretation_2025",
+    "url": "https://www.spp.gov.cn/xwfbh/wsfbt/202506/t20250626_699332.shtml",
+    "documentName": "关于依法保障在押犯罪嫌疑人、被告人选择辩护人权利有关问题的批复",
+    "knowledgeType": "司法解释",
+    "knowledgeSubtype": "程序权利保障",
+    "documentLevel": "司法解释",
+    "issuer": "最高人民法院、最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒程序应对",
+    "topic": "家属委托辩护、会见与法律援助衔接",
+    "effectiveDate": "2025-06-27",
+    "currentStatus": "现行有效",
+    "rawGroup": "judicial_interpretations",
+    "processedGroup": "judicial_interpretations",
+    "parser": "single_article_slice",
+    "articleNumber": "全文",
+    "articleTitle": "批复全文",
+    "sliceStartMarker": "《最高人民法院、最高人民检察院关于依法保障在押犯罪嫌疑人、被告人选择辩护人权利有关问题的批复》已于",
+    "sliceStopMarkers": [
+      "相关链接：",
+      "Copyrights",
+      "备案序号："
+    ],
+    "extraKeywords": [
+      "家属委托辩护",
+      "会见权",
+      "法律援助终止",
+      "在押犯罪嫌疑人",
+      "被告人"
+    ]
+  },
+  {
+    "id": "drug_moneylaundering_dual_investigation_story_2023",
+    "url": "https://www.spp.gov.cn/spp/zdgz/202306/t20230627_618543.shtml",
+    "documentName": "一案双查 既打击毒品犯罪又追踪毒资流向",
+    "knowledgeType": "官方解读",
+    "knowledgeSubtype": "案例解读",
+    "documentLevel": "专题解读",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "涉毒洗钱与毒资追查",
+    "topic": "一案双查、追踪毒资流向与洗钱线索深挖",
+    "effectiveDate": "2023-06-27",
+    "currentStatus": "公开发布",
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "single_article_slice",
+    "articleNumber": "专题1",
+    "articleTitle": "一案双查 既打击毒品犯罪又追踪毒资流向",
+    "sliceStartMarker": "一案双查 既打击毒品犯罪又追踪毒资流向",
+    "sliceStopMarkers": [
+      "治罪与治理结合 典型事例为强化禁毒综合治理提供指引",
+      "责任编辑：",
+      "Copyrights"
+    ],
+    "extraKeywords": [
+      "毒资流向",
+      "洗钱",
+      "神仙水",
+      "一案双查",
+      "打财断血"
+    ]
+  },
+  {
+    "id": "medical_addictive_cases_notice_2024",
+    "url": "https://www.spp.gov.cn/spp/xwfbh/wsfbt/202406/t20240621_657334.shtml",
+    "documentName": "关于印发惩治涉麻精药品等成瘾性物质滥用犯罪典型案例的通知",
+    "knowledgeType": "部门规范",
+    "knowledgeSubtype": "工作通知",
+    "documentLevel": "规范性文件",
+    "issuer": "最高人民检察院",
+    "sourceName": "中华人民共和国最高人民检察院官网",
+    "businessDomain": "麻精药品与成瘾性物质治理",
+    "topic": "麻精药品、依托咪酯等成瘾性物质犯罪办案指引",
+    "effectiveDate": "2024-06-18",
+    "currentStatus": "公开发布",
+    "rawGroup": "guides",
+    "processedGroup": "guides",
+    "parser": "single_article_slice",
+    "articleNumber": "全文",
+    "articleTitle": "通知全文",
+    "sliceStartMarker": "关于印发惩治涉麻精药品等成瘾性物质滥用犯罪典型案例的通知",
+    "sliceStopMarkers": [
+      "案例一",
+      "责任编辑：",
+      "Copyrights"
+    ],
+    "extraKeywords": [
+      "麻精药品",
+      "依托咪酯",
+      "成瘾性物质",
+      "典型案例",
+      "通知"
+    ]
+  }
+]

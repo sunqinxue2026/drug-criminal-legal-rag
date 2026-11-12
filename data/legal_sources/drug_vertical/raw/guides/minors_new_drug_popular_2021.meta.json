@@ -1,0 +1,29 @@
+{
+  "id": "minors_new_drug_popular_2021",
+  "url": "https://www.spp.gov.cn/spp/llyj/202110/t20211014_532154.shtml",
+  "documentName": "斩断新型毒品伸向未成年人的黑手",
+  "knowledgeType": "官方指引",
+  "knowledgeSubtype": "新型毒品普法",
+  "documentLevel": "普法解读",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "新型毒品与未成年人保护",
+  "topic": "未成年人、新型毒品与校园娱乐场所风险",
+  "effectiveDate": "2021-10-14",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "stopMarkers": [
+    "责任编辑"
+  ],
+  "extraKeywords": [
+    "未成年人",
+    "新型毒品",
+    "娱乐场所",
+    "笑气",
+    "依托咪酯",
+    "电子烟"
+  ]
+}

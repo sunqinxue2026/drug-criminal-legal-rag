@@ -1,0 +1,19 @@
+{
+  "id": "drug_judicial_interp_understanding",
+  "url": "https://www.court.gov.cn/shenpan/xiangqing/81362.html",
+  "documentName": "《最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释》的理解与适用",
+  "knowledgeType": "官方解读",
+  "knowledgeSubtype": "司法解释理解与适用",
+  "documentLevel": "司法解释解读",
+  "issuer": "最高人民法院",
+  "sourceName": "中华人民共和国最高人民法院官网",
+  "businessDomain": "涉毒司法解释适用",
+  "topic": "毒品犯罪司法解释解读",
+  "effectiveDate": "2018-02-12",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "introArticleTitle": "导读"
+}

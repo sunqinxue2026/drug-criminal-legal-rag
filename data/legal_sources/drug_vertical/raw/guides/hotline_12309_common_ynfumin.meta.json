@@ -1,0 +1,45 @@
+{
+  "id": "hotline_12309_common_ynfumin",
+  "url": "https://www.ynfumin.jcy.gov.cn/fzxc/202501/t20250113_6796198.shtml",
+  "documentName": "12309检察服务热线常识",
+  "knowledgeType": "官方指引",
+  "knowledgeSubtype": "程序说明",
+  "documentLevel": "检务服务",
+  "issuer": "云南省富民县人民检察院",
+  "sourceName": "云南省富民县人民检察院",
+  "businessDomain": "涉毒程序应对",
+  "topic": "12309检察服务与家属咨询",
+  "effectiveDate": "2025-01-13",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "introArticleNumber": "导读",
+  "introArticleTitle": "服务概览",
+  "ignoreExact": [
+    "法治宣传"
+  ],
+  "extraKeywords": [
+    "12309",
+    "检察服务热线",
+    "家属咨询",
+    "律师执业保障",
+    "程序查询"
+  ],
+  "articleAliases": {
+    "导读": [
+      "12309",
+      "检察服务热线"
+    ],
+    "一、": [
+      "服务范围",
+      "案件查询",
+      "律师执业保障"
+    ],
+    "二、": [
+      "拨打方式",
+      "操作指南"
+    ]
+  }
+}

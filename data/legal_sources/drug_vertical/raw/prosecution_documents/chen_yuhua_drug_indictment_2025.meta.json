@@ -1,0 +1,18 @@
+{
+  "id": "chen_yuhua_drug_indictment_2025",
+  "url": "https://www.12309.gov.cn/12309/gj/cq/cqsjlpq/zjxflws/202506/t20250626_12196054.shtml",
+  "documentName": "起诉书（陈渝华贩卖毒品案）",
+  "knowledgeType": "检察文书",
+  "knowledgeSubtype": "起诉书",
+  "documentLevel": "法律文书",
+  "issuer": "重庆市九龙坡区人民检察院",
+  "sourceName": "12309中国检察网",
+  "businessDomain": "涉毒刑事",
+  "topic": "贩卖毒品审查起诉",
+  "effectiveDate": "2025-01-15",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "prosecution_documents",
+  "processedGroup": "prosecution_documents",
+  "parser": "official_indictment_snapshot"
+}

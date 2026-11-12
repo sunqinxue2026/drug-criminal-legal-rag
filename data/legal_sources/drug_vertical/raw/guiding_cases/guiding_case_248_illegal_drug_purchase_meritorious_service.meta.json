@@ -1,0 +1,19 @@
+{
+  "id": "guiding_case_248_illegal_drug_purchase_meritorious_service",
+  "url": "https://www.court.gov.cn/zixun/xiangqing/459191.html",
+  "documentName": "最高人民法院发布第44批指导性案例",
+  "knowledgeType": "指导性案例",
+  "knowledgeSubtype": "指导性案例",
+  "documentLevel": "司法案例",
+  "issuer": "最高人民法院",
+  "sourceName": "中华人民共和国最高人民法院官网",
+  "businessDomain": "涉毒量刑情节",
+  "topic": "自首立功、非法购毒获取线索、从宽处罚边界",
+  "effectiveDate": "2025-05-28",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guiding_cases",
+  "processedGroup": "guiding_cases",
+  "parser": "guiding_case_single",
+  "fallbackTitle": "金某等组织卖淫案——非法购毒获取立功线索不认定为立功"
+}

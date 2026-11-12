@@ -1,0 +1,34 @@
+{
+  "id": "anti_drug_law_zygov",
+  "url": "https://www.zygov.gov.cn/zfbm/gaj/zcwj/202008/t20200828_62790836.html",
+  "documentName": "中华人民共和国禁毒法（全文）",
+  "knowledgeType": "法律法规",
+  "documentLevel": "法律",
+  "issuer": "全国人民代表大会常务委员会",
+  "sourceName": "遵义市人民政府网站",
+  "businessDomain": "禁毒",
+  "topic": "禁毒法",
+  "effectiveDate": "2008-06-01",
+  "currentStatus": "现行有效",
+  "verifySsl": true,
+  "rawGroup": "laws",
+  "processedGroup": "laws",
+  "articleAliases": {
+    "第二条": [
+      "毒品范围",
+      "什么属于毒品"
+    ],
+    "第三条": [
+      "禁毒工作方针",
+      "禁毒综合治理"
+    ],
+    "第六十一条": [
+      "强制隔离戒毒",
+      "戒毒措施"
+    ],
+    "第六十二条": [
+      "社区戒毒",
+      "社区康复"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "legal_aid_criminal_cases_moj_2023",
+  "url": "https://www.moj.gov.cn/pub/sfbgw/jgsz/jgszzsdw/zsdwflyzzx/flyzzxzcxx/zcxxfyzl/202306/t20230621_481166.html",
+  "documentName": "以案说法——法律援助法解读",
+  "knowledgeType": "官方指引",
+  "knowledgeSubtype": "家属应对问答",
+  "documentLevel": "普法问答",
+  "issuer": "中华人民共和国司法部",
+  "sourceName": "中华人民共和国司法部",
+  "businessDomain": "家属应对与法律援助",
+  "topic": "刑事法律援助、被害人救济、未成年人案件与强制医疗",
+  "effectiveDate": "2023-06-21",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guides",
+  "processedGroup": "guides",
+  "parser": "sectioned_article",
+  "sectionStartMarker": "（十四）",
+  "includeIntro": false,
+  "includeArticleNumbers": [
+    "（十四）",
+    "（十五）",
+    "（十六）",
+    "（十七）"
+  ],
+  "stopMarkers": [
+    "附件："
+  ]
+}

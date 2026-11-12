@@ -1,0 +1,18 @@
+{
+  "id": "spp_top10_drug_cases_2023",
+  "url": "https://www.spp.gov.cn/spp/xwfbh/wsfbh/202306/t20230625_618249.shtml",
+  "documentName": "最高检发布“依法严惩毒品犯罪 强化禁毒综合治理”十大典型案事例",
+  "knowledgeType": "典型案例",
+  "knowledgeSubtype": "典型案事例",
+  "documentLevel": "司法案例",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "涉毒刑事案例",
+  "topic": "依法严惩毒品犯罪与强化禁毒综合治理案事例",
+  "effectiveDate": "2023-06-25",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guiding_cases",
+  "processedGroup": "guiding_cases",
+  "parser": "guiding_case_batch"
+}

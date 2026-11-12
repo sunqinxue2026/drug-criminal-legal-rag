@@ -1,0 +1,17 @@
+__pycache__/
+.env
+.env.local
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.log
+.DS_Store
+data/indexes/*.pkl
+temp/*
+!temp/.gitkeep
+uploads/*
+!uploads/.gitkeep

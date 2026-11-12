@@ -1,0 +1,18 @@
+{
+  "id": "guiding_cases_batch_37",
+  "url": "https://www.spp.gov.cn/spp/xwfbh/wsfbh/202206/t20220624_560847.shtml",
+  "documentName": "最高人民检察院发布第三十七批指导性案例",
+  "knowledgeType": "指导性案例",
+  "knowledgeSubtype": "指导性案例",
+  "documentLevel": "司法案例",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "涉毒刑事案例",
+  "topic": "新型毒品犯罪指导性案例",
+  "effectiveDate": "2022-06-24",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guiding_cases",
+  "processedGroup": "guiding_cases",
+  "parser": "guiding_case_batch"
+}

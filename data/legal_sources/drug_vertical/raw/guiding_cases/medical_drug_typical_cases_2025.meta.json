@@ -1,0 +1,18 @@
+{
+  "id": "medical_drug_typical_cases_2025",
+  "url": "https://www.court.gov.cn/zixun/xiangqing/488081.html",
+  "documentName": "涉麻精药品犯罪典型案例",
+  "knowledgeType": "典型案例",
+  "knowledgeSubtype": "典型案例",
+  "documentLevel": "司法案例",
+  "issuer": "最高人民法院",
+  "sourceName": "中华人民共和国最高人民法院官网",
+  "businessDomain": "刑事",
+  "topic": "涉毒刑事典型案例",
+  "effectiveDate": "2026-02-26",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guiding_cases",
+  "processedGroup": "guiding_cases",
+  "parser": "guiding_case_batch"
+}

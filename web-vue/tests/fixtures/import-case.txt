@@ -1,0 +1,4 @@
+Codex E2E import case
+
+This test document is used by Playwright.
+It describes a labor dispute compensation scenario for automated import verification.

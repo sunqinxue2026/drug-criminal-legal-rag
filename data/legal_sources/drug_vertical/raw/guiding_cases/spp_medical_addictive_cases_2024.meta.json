@@ -1,0 +1,21 @@
+{
+  "id": "spp_medical_addictive_cases_2024",
+  "url": "https://www.spp.gov.cn/spp/xwfbh/wsfbt/202406/t20240621_657334.shtml",
+  "documentName": "最高检发布惩治涉麻精药品等成瘾性物质滥用犯罪典型案例",
+  "knowledgeType": "典型案例",
+  "knowledgeSubtype": "典型案例",
+  "documentLevel": "司法案例",
+  "issuer": "最高人民检察院",
+  "sourceName": "中华人民共和国最高人民检察院官网",
+  "businessDomain": "新型毒品与麻精药品",
+  "topic": "麻精药品、依托咪酯、曲马多等成瘾性物质犯罪",
+  "effectiveDate": "2024-06-21",
+  "currentStatus": "公开发布",
+  "verifySsl": true,
+  "rawGroup": "guiding_cases",
+  "processedGroup": "guiding_cases",
+  "parser": "guiding_case_batch",
+  "stopMarkers": [
+    "严惩滥用麻精药品犯罪"
+  ]
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="量刑与从宽处罚">
+  <rect width="64" height="64" rx="18" fill="#f5f3ff"/>
+  <path d="M32 13v38M20 21h24M24 51h16" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round"/>
+  <path d="m20 21-9 16h18l-9-16ZM44 21l-9 16h18l-9-16Z" fill="#7c3aed"/>
+</svg>
